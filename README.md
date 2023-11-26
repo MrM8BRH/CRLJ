@@ -31,7 +31,7 @@ IStandWithPalestine
 -------------------
 <img src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fgetwallpapers.com%2Fwallpaper%2Ffull%2Ff%2F4%2Fe%2F1399635-palestine-wallpaper-3840x2160-windows-7.jpg&f=1&nofb=1ipt=9bbbeda7144f1745c72fe7a389658d0b0e4091405154f5845ebb87a13a4a8706&ipo=images" width="435" height="235px">
 
-**Advice:** If you're new to cybersecurity, it's best to read the topics in the table of contents in order, without skipping any.
+**Guidance:** For those entering the field of cybersecurity, it is recommended to systematically go through the topics in the table of contents without skipping any. Additionally, acquiring knowledge in IT fundamentals, Network, and Linux is essential.
 
 Table of Contents
 -----------------
