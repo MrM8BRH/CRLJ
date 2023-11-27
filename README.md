@@ -1,5 +1,5 @@
+<p align="center">اللهم صل على محمد وعلى آل محمد</p>
 <div id="header" align="center">
-<p>اللهم صل على محمد وعلى آل محمد</p>
 <img src="https://github.com/MrM8BRH/MrM8BRH/assets/34133187/99f3da87-2c3b-4989-8447-3cf909c3ba5f" width="235" height="235px" />
   
 <h3>Cybersecurity Resources and Learning Journey</h3>
