@@ -1,3 +1,4 @@
+<p align="center">سبحان الله وبحمده سبحان الله العظيم</p>
 <p align="center">اللهم صل على محمد وعلى آل محمد</p>
 <div id="header" align="center">
 <img src="https://github.com/MrM8BRH/MrM8BRH/assets/34133187/99f3da87-2c3b-4989-8447-3cf909c3ba5f" width="235" height="235px" />
@@ -32,7 +33,7 @@ IStandWithPalestine
 -------------------
 <img src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fgetwallpapers.com%2Fwallpaper%2Ffull%2Ff%2F4%2Fe%2F1399635-palestine-wallpaper-3840x2160-windows-7.jpg&f=1&nofb=1ipt=9bbbeda7144f1745c72fe7a389658d0b0e4091405154f5845ebb87a13a4a8706&ipo=images" width="435" height="235px">
 
-**Guidance:** For those entering the field of cybersecurity, it is recommended to systematically go through the topics in the table of contents without skipping any. Additionally, acquiring knowledge in IT fundamentals, Network, and Linux is essential.
+**Cybersecurity beginners should learn *IT fundamentals*, *Network*, *Programming*, *Scripting*, and *Linux*. Also, systematically go through the table of contents without skipping any topics.**
 
 Table of Contents
 -----------------
