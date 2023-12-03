@@ -8,6 +8,8 @@ Social Engineering
 ------------------
 Social engineering is the art of manipulating, influencing, or deceiving you in order to gain control over your computer system. The hacker might use the phone, email, snail mail or direct contact to gain illegal access. Phishing, spear phishing, and CEO Fraud are all examples.
 
+[Awesome Social Engineering](https://github.com/giuliacassara/awesome-social-engineering)
+
 ### Phishing Frameworks & Resources
 - [SniperPhish](https://github.com/GemGeorge/SniperPhish)
 - [AdvPhishing](https://github.com/Ignitetch/AdvPhishing)
