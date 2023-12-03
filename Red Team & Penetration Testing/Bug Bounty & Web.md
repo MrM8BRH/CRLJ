@@ -18,6 +18,7 @@ Web Security Resources
 - [PortSwigger Academy CheatSheets](https://github.com/ChrisM-X/PortSwigger-Academy-CheatSheets)
 - [Kathan's Web Application Pentesting Checklist](https://kathan19.gitbook.io/howtohunt/checklist/web-application-pentesting-checklist)
 - [Six2dez Web Checklist](https://pentestbook.six2dez.com/others/web-checklist)
+- [Awesome Web Security](https://github.com/qazbnm456/awesome-web-security)
 - [How HTTPS Works](https://howhttps.works/episodes/)
 - [TLS 1.2 Cheatsheet](https://tls12.xargs.org/)
 - [JWT Attacks on Notion](https://juba-notes.notion.site/JWT-attacks-4f62b2b641a84032bc624f8e8432345d)
