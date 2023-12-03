@@ -10,11 +10,12 @@ Workshops
 
 Resources
 ---------
-- [ReverseEngineering](https://www.reddit.com/r/ReverseEngineering)
+- [Awesome Reversing](https://github.com/tylerha97/awesome-reversing)
 - [Reverse Engineering Resources](https://github.com/wtsxDev/reverse-engineering)
 - [Car Hacking](https://illmatics.com/carhacking.html)
 - [PS3 Hypervisor Reverse Engineering](https://www.psdevwiki.com/ps3/Hypervisor_Reverse_Engineering)
 - [Solutions to Practical Reverse Engineering](https://bin.re/projects/solutions-to-practical-reverse-engineering/)
+- [ReverseEngineering](https://www.reddit.com/r/ReverseEngineering)
 
 Tools
 -----
