@@ -36,6 +36,8 @@ Cheat Sheets, OSs and Tools
 - [DFIR Cheat Sheet](https://dfircheatsheet.github.io/)
 - [Introduction to DFIR](https://a1l4m.medium.com/introduction-to-dfir-290d77c60965)
 - [Forensics Start Page](https://start.me/p/q6mw4Q/forensics)
+- [Awesome Forensics](https://github.com/cugu/awesome-forensics)
+- [Awesome Memory Forensics](https://github.com/digitalisx/awesome-memory-forensics)
 - [Image OSINT Forensics](https://github.com/CScorza/Image-OSINT-Forensics)
 - [DFIR Training](https://www.dfir.training/)
 - [Epoch Converter](https://www.epochconverter.com/)
