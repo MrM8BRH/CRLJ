@@ -6,6 +6,9 @@ Resources and Tools
 ------------------------------
 - [My Arsenal of AWS Security Tools](https://github.com/toniblyx/my-arsenal-of-aws-security-tools)
 - [Pacu - AWS Exploitation Framework](https://github.com/RhinoSecurityLabs/pacu)
+- [Awesome-Cloud-PenTest](https://github.com/CyberSecurityUP/Awesome-Cloud-PenTest)
+- [Awesome Cloud Security](https://github.com/4ndersonLin/awesome-cloud-security)
+- [Awesome AWS Security](https://github.com/jassics/awesome-aws-security)
 - [GCP IAM Privilege Escalation](https://github.com/RhinoSecurityLabs/GCP-IAM-Privilege-Escalation)
 - [Stormspotter - Azure Security Tool](https://github.com/Azure/Stormspotter)
 - [ScoutSuite - Multi-Cloud Security Auditing Tool](https://github.com/nccgroup/ScoutSuite)
@@ -32,6 +35,7 @@ Resources and Tools
 API
 ---
 - [MindAPI Playground](https://dsopas.github.io/MindAPI/play/)
+- [Awesome API Security](https://github.com/arainho/awesome-api-security)
 - [Beginner's Guide to API Hacking](https://danaepp.com/beginners-guide-to-api-hacking)
 - [APIsec University](https://www.apisecuniversity.com/)
 - [API Security Checklist](https://github.com/shieldfy/API-Security-Checklist)
