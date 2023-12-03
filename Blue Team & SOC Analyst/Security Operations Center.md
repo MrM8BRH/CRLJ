@@ -63,6 +63,7 @@ These components collectively form the foundation of a well-organized SOC, ensur
 
 Resources and Tools
 -------------------
+- [Awesome SOC](https://github.com/cyb3rxp/awesome-soc)
 - [SOC Introduction](https://secops.institute/soc-introduction)
 - [Future of the SOC: SOC People Skills, Not Tiers](https://medium.com/anton-on-security/new-paper-future-of-the-soc-soc-people-skills-not-tiers-7fbe09001096)
 - [Awesome SOC Analyst](https://github.com/LetsDefend/awesome-soc-analyst)
