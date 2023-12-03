@@ -10,6 +10,8 @@ Resources and Tools
 -------------------
 - [Ired.team](https://www.ired.team/)
 - [RedTeamer Tips](https://redteamer.tips/)
+- [Awesome Red Teaming](https://github.com/yeyintminthuhtut/Awesome-Red-Teaming)
+- [Awesome-Red-Team-Operation](https://github.com/CyberSecurityUP/Awesome-Red-Team-Operations)
 - [OffSec Newbie Guide](https://guide.offsecnewbie.com/)
 - [Awesome RAT](https://github.com/alphaSeclab/awesome-rat/blob/master/Readme_en.md)
 - [Red Team Guide](https://redteam.guide/docs/guides/)
@@ -50,15 +52,8 @@ Resources and Tools
 - [Ninja](https://github.com/ahmedkhlief/Ninja)
 - [AM0N-Eye](https://github.com/S3N4T0R-0X0/AM0N-Eye)
 
-### Adversary Simulator/Emulator - Commercial
-- [Bruteratel](https://bruteratel.com/)
-- [Cobalt Strike](https://www.cobaltstrike.com/)
-- [Immunity Inc. Adversary Simulation Services](https://www.immunityinc.com/services/adversary-simulation.html)
-- [SCYTHE - Red Team Platform](https://scythe.io/red-teams)
-- [AttackIQ](https://www.attackiq.com/platform/)
-- [Exploit Pack](https://exploitpack.com/)
-
-### Adversary Simulator/Emulator - Open Source
+### Adversary Simulator/Emulator
+- [Red Teaming/Adversary Simulation Toolkit](https://0x1.gitlab.io/pentesting/Red-Teaming-Toolkit/)
 - [CALDERA](https://caldera.mitre.org/)
 - [Atomic Red Team](https://github.com/redcanaryco/atomic-red-team)
 - [Monkey](https://github.com/guardicore/monkey)
@@ -70,6 +65,12 @@ Resources and Tools
 - [FireDrill](https://github.com/FourCoreLabs/firedrill)
 - [Encripto Tools](https://www.encripto.no/en/downloads-2/tools/)
 - [Stratus Red Team](https://github.com/DataDog/stratus-red-team)
+- [Bruteratel](https://bruteratel.com/)
+- [Cobalt Strike](https://www.cobaltstrike.com/)
+- [Immunity Inc. Adversary Simulation Services](https://www.immunityinc.com/services/adversary-simulation.html)
+- [SCYTHE - Red Team Platform](https://scythe.io/red-teams)
+- [AttackIQ](https://www.attackiq.com/platform/)
+- [Exploit Pack](https://exploitpack.com/)
 
 ### Container Security
 - [Anchore Grype](https://github.com/anchore/grype)
