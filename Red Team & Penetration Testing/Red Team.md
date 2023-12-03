@@ -37,6 +37,7 @@ Resources and Tools
 - [Security Cafe](https://securitycafe.ro/)
 - [Awesome OSCP](https://github.com/0x4D31/awesome-oscp)
 - [OSCE3-Complete-Guide](https://github.com/CyberSecurityUP/OSCE3-Complete-Guide)
+- [Red Team / Pentest](https://johnermac.github.io/menu/)
 - [CEH-v11-Study-Guide](https://github.com/imrk51/CEH-v11-Study-Guide)
 - [Game Hacking](https://github.com/dsasmblr/game-hacking)
 
