@@ -4,6 +4,8 @@ Cyber threat intelligence is knowledge, skills and experience-based information 
 
 ### Threat Feeds and Platforms
 - [OpenTAXII](https://github.com/eclecticiq/OpenTAXII)
+- [cti-taxii-client](https://github.com/oasis-open/cti-taxii-client)
+- [Sigma Command Line Interface](https://github.com/SigmaHQ/sigma-cli)
 - [OpenCTI Platform](https://github.com/OpenCTI-Platform/opencti)
 - [Vertex Synapse](https://vertex.link/synapse)
 - [DocIntel](https://docintel.org/)
@@ -198,16 +200,16 @@ Cyber threat intelligence is knowledge, skills and experience-based information 
 
 ### APT researchers on Twitter
 - [ShadowChasing1](https://twitter.com/ShadowChasing1)
-- [Arkbird\_SOLG](https://twitter.com/Arkbird_SOLG)
-- [cyberwar\_15](https://twitter.com/cyberwar_15)
+- [Arkbird_SOLG](https://twitter.com/Arkbird_SOLG)
+- [cyberwar_15](https://twitter.com/cyberwar_15)
 - [RedDrip7](https://twitter.com/RedDrip7)
 - [AnonySecAgency](https://twitter.com/AnonySecAgency)
-- [cyber\_\_sloth](https://twitter.com/cyber__sloth)
+- [cyber__sloth](https://twitter.com/cyber__sloth)
 - [blackorbird](https://twitter.com/blackorbird)
-- [Rmy\_Reserve](https://twitter.com/Rmy_Reserve)
+- [Rmy_Reserve](https://twitter.com/Rmy_Reserve)
 - [h2jazi](https://twitter.com/h2jazi)
 - [blackorbird](https://twitter.com/blackorbird)
-- [\_thespis](https://twitter.com/_thespis)
+- [_thespis](https://twitter.com/_thespis)
 - [DeadlyLynn](https://twitter.com/DeadlyLynn)
 - [0xrb](https://twitter.com/0xrb)
 - [InQuest](https://twitter.com/InQuest)
