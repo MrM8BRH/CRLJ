@@ -31,3 +31,8 @@ Resources and Tools
 - [REMnux](https://docs.remnux.org/install-distro/get-virtual-appliance)
 - [Tails](https://tails.net/install/index.en.html)
 - [SIFT Workstation](https://www.sans.org/tools/sift-workstation/)
+- [BackBox](https://www.backbox.org/)
+- [ArchStrike](https://archstrike.org/)
+- [Offen Osint](https://github.com/Double2Sky/OffenOsint)
+- [Septor Linux](https://septor.sourceforge.io/)
+- [OSINTUX](https://www.osintux.org/)
