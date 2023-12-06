@@ -13,6 +13,7 @@ Mobile Application Penetration Testing, also referred to as “mobile app pen te
 - [Artemis](https://github.com/HadessCS/Artemis)
 - [Android API Extractor](https://github.com/Serhatcck/Android-API-Extractor)
 - [Mobile Security Framework (MobSF)](https://github.com/MobSF/Mobile-Security-Framework-MobSF)
+- [apk.sh](https://github.com/ax/apk.sh)
 - [Mobile Security - Start.me](https://start.me/p/OmxRqE/mobile)
 - [Mobile Pentesting 101: Bypassing Biometric Authentication](https://securitycafe.ro/2022/09/05/mobile-pentesting-101-bypassing-biometric-authentication/)
 - [Android App Security Checklist](https://github.com/muellerberndt/android_app_security_checklist)
