@@ -3,6 +3,7 @@ Cyber Threat Intelligence (CTI)
 Cyber threat intelligence is knowledge, skills and experience-based information concerning the occurrence and assessment of both cyber and physical threats and threat actors that is intended to help mitigate potential attacks and harmful events occurring in cyberspace. Cyber threat intelligence sources include open source intelligence, social media intelligence, human Intelligence, technical intelligence, device log files, forensically acquired data or intelligence from the internet traffic and data derived for the deep and dark web. In recent years, threat intelligence has become a crucial part of companies' cyber security strategy since it allows companies to be more proactive in their approach and determine which threats represent the greatest risks to a business. This puts companies on a more proactive front - actively trying to find their vulnerabilities and prevents hacks before they happen.
 
 ### Threat Feeds and Platforms
+- [OpenTAXII](https://github.com/eclecticiq/OpenTAXII)
 - [OpenCTI Platform](https://github.com/OpenCTI-Platform/opencti)
 - [Vertex Synapse](https://vertex.link/synapse)
 - [DocIntel](https://docintel.org/)
