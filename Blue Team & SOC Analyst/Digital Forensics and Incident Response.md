@@ -42,6 +42,7 @@ Cheat Sheets, OSs and Tools
 - [DFIR Training](https://www.dfir.training/)
 - [Epoch Converter](https://www.epochconverter.com/)
 - [DFIR cheatsheet](https://www.jaiminton.com/cheatsheet/DFIR/#)
+- [CSI Linux](https://csilinux.com/)
 - [CSI Linux Certified Investigator Course](https://csilinux.com/courses/csi-linux-certified-investigator/)
 - [CAINE (Computer Aided INvestigative Environment)](https://www.caine-live.net/)
 - [Paladin](https://sumuri.com/software/paladin/)
