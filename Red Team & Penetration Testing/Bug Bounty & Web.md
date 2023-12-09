@@ -156,6 +156,7 @@ Dorks
 
 Web Scraping Tools and Resources
 --------------------------------
+- [WebPalm](https://github.com/Malwarize/webpalm)
 - [Scrapy](https://scrapy.org/)
 - [Colly](https://go-colly.org/)
 - [Katana](https://github.com/projectdiscovery/katana)
