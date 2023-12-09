@@ -53,6 +53,15 @@ Social engineering is the art of manipulating, influencing, or deceiving you in 
 - [Metrics Sparrow Email Permutator](http://metricsparrow.com/toolkit/email-permutator/)
 - [https://portal.spycloud.com/endpoint/enriched-stats/test@test.test](https://portal.spycloud.com/endpoint/enriched-stats/test@test.test)
 
+Web Scraping Tools and Resources
+--------------------------------
+- [WebPalm](https://github.com/Malwarize/webpalm)
+- [Scrapy](https://scrapy.org/)
+- [Colly](https://go-colly.org/)
+- [Katana](https://github.com/projectdiscovery/katana)
+- [Beautiful Soup Web Scraper (Real Python)](https://realpython.com/beautiful-soup-web-scraper-python/)
+- [Python Web Scraping Guide (Oxylabs)](https://oxylabs.io/blog/python-web-scraping)
+
 ### Social Media
 - [OSINT Hopain](https://osint.hopain.cyou/)
 - [What's My Name](https://whatsmyname.app/)
