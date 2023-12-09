@@ -22,6 +22,7 @@ Resources and Tools
 - [ModSecurity](https://github.com/SpiderLabs/ModSecurity)
 - [PoW Shield](https://github.com/RuiSiang/PoW-Shield)
 - [ShieldTest](https://www.shieldtest.com/)
+- [DDoSarmy](https://github.com/XORbit01/ddosarmy)
 - [Hammer](https://github.com/cyweb/hammer)
 - [Saddam](https://github.com/OffensivePython/Saddam)
 - [Snoopy-QBOT](https://github.com/uvoid/Snoopy-QBOT)
