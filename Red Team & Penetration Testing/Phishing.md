@@ -4,16 +4,32 @@ Phishing is a cybercrime in which a target or targets are contacted by email, te
 
 The information is then used to access important accounts and can result in identity theft and financial loss.
 
+[Phishing](https://www.phishing.org/)
+
 Social Engineering
 ------------------
 Social engineering is the art of manipulating, influencing, or deceiving you in order to gain control over your computer system. The hacker might use the phone, email, snail mail or direct contact to gain illegal access. Phishing, spear phishing, and CEO Fraud are all examples.
 
 [Awesome Social Engineering](https://github.com/giuliacassara/awesome-social-engineering)
 
+### MISC
+- [Easy Phishing Infrastructure Setup](https://payatu.com/blog/phishing-infrastructure-setup/)
+- [Namecheap](https://www.namecheap.com/)
+- [How to Register a Domain Name with Amazon Route 53](https://aws.amazon.com/getting-started/hands-on/get-a-domain/)
+- [Let's Encrypt](https://letsencrypt.org/)
+
+### Mailing Service
+- [SimpleMail](https://www.simplemail.dev/)
+- [Brevo](https://www.brevo.com/free-smtp-server/)
+- [SMTP2GO](https://www.smtp2go.com/)
+- [TurboSMTP](https://serversmtp.com/)
+- [Mailjet](https://www.mailjet.com/)
+
 ### Phishing Frameworks & Resources
+- [Gophish](https://getgophish.com/)
 - [SniperPhish](https://github.com/GemGeorge/SniperPhish)
 - [AdvPhishing](https://github.com/Ignitetch/AdvPhishing)
-- [Gophish](https://getgophish.com/)
+- [evilginx2](https://github.com/kgretzky/evilginx2)
 - [IDN Phishing Blog Post](https://www.xudongz.com/blog/2017/idn-phishing/)
 - [BadPDF Generator](https://github.com/CyberSecurityUP/BadPDF-Generator)
 - [CheckPhish](https://checkphish.ai/)
