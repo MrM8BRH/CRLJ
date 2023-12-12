@@ -4,7 +4,12 @@ Phishing is a cybercrime in which a target or targets are contacted by email, te
 
 The information is then used to access important accounts and can result in identity theft and financial loss.
 
-[Phishing](https://www.phishing.org/)
+- [Phishing](https://www.phishing.org/)
+- [KnowBe4](https://www.knowbe4.com/)
+- [Curricula](https://www.curricula.com/)
+- [Digital Safety](https://digital-safety.net/)
+- [Team Digitale Security Awareness](https://github.com/teamdigitale/security-awareness)
+- [BCGov Security Awareness](https://github.com/bcgov/SecurityAwareness)
 
 Social Engineering
 ------------------
