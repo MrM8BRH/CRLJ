@@ -39,6 +39,12 @@ Social engineering is the art of manipulating, influencing, or deceiving you in 
 - [BadPDF Generator](https://github.com/CyberSecurityUP/BadPDF-Generator)
 - [CheckPhish](https://checkphish.ai/)
 
+### Phishing Email Templates
+- [Phishing Email Templates](https://caniphish.com/free-phishing-test/phishing-email-templates)
+- [The 10 Best Phishing Email Templates to Send to Employees](https://www.cybertalk.org/2023/10/04/the-10-best-phishing-email-templates-to-send-to-employees/)
+- [Phishing Email Examples](https://www.hooksecurity.co/phishing-email-examples)
+- [10 Best Phishing Simulation Examples](https://blog.usecure.io/10-best-phishing-simulation-examples)
+
 ### Email
 - [Samurai](https://github.com/OffXec/Samurai)
 - [Buster](https://github.com/sham00n/buster)
