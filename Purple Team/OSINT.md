@@ -6,6 +6,7 @@ Resources and Tools
 -------------------
 - [Open-Source Intelligence](https://www.sans.org/blog/what-is-open-source-intelligence/)
 - [Intelligence Studies: Types of Intelligence Collection](https://usnwc.libguides.com/c.php?g=494120&p=3381426)
+- [OSINT MACHINE GUIDE](https://github.com/AmazoniaLeaksOficial/OSINTMachineGuide)
 - [OSINTToolkit](https://one-plus.github.io/access.html)
 - [OSINT Tools](https://github.com/Astrosp/osint-tools)
 - [OSINT Stuff Tool Collection](https://github.com/cipher387/osint_stuff_tool_collection/)
