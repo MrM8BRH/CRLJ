@@ -40,6 +40,7 @@ Cheat Sheets, OSs and Tools
 - [Digital Forensics Script for Linux](https://github.com/vm32/Digital-Forensics-Script-for-Linux)
 - [FREE DFIR First Responder Bootcamp](https://www.poppopret.training/free-dfir-first-responder-bootcamp)
 - [Awesome Forensics](https://github.com/cugu/awesome-forensics)
+- [Collection of forensic tools](https://github.com/cristianzsh/forensictools)
 - [Awesome Memory Forensics](https://github.com/digitalisx/awesome-memory-forensics)
 - [Image OSINT Forensics](https://github.com/CScorza/Image-OSINT-Forensics)
 - [DFIR Training](https://www.dfir.training/)
