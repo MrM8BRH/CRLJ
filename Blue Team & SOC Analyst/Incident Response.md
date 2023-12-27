@@ -71,6 +71,8 @@ Incident Response Resources and Playbooks
 - [Incident Playbook](https://github.com/austinsonger/Incident-Playbook)
 - [MISP Playbooks](https://github.com/MISP/misp-playbooks)
 - [SOCFortress Playbooks](https://github.com/socfortress/Playbooks)
+- [CaseManager](https://github.com/crowdere/CaseManager)
+- [Incident Response Linux](https://github.com/vm32/Linux-Incident-Response)
 
 <div align="center">
 
