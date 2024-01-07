@@ -13,9 +13,12 @@
 <img src="https://img.shields.io/github/license/mrm8brh/CRLJ?style=social">
 <img src="https://img.shields.io/github/issues/mrm8brh/CRLJ?style=social">
 <img src="https://img.shields.io/github/watchers/mrm8brh/CRLJ?style=social">
-<a href="https://github.com/TheBSD/StandWithPalestine/blob/main/docs/README.md">
-   <img src="https://raw.githubusercontent.com/TheBSD/StandWithPalestine/main/badges/StandWithPalestine.svg">
-</a> 
+<a href="https://techforpalestine.org/">
+<img src="https://raw.githubusercontent.com/Safouene1/support-palestine-banner/master/StandWithPalestine.svg">
+</a>
+<a href="https://techforpalestine.org/">
+<img src="https://badge.techforpalestine.org/default">
+</a>
 
 </div>
 
