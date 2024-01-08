@@ -29,6 +29,7 @@ Social engineering is the art of manipulating, influencing, or deceiving you in 
 - [SMTP2GO](https://www.smtp2go.com/)
 - [TurboSMTP](https://serversmtp.com/)
 - [Mailjet](https://www.mailjet.com/)
+- [Elastic Email](https://elasticemail.com/)
 
 ### Phishing Frameworks & Resources
 - [Gophish](https://getgophish.com/)
@@ -45,7 +46,8 @@ Social engineering is the art of manipulating, influencing, or deceiving you in 
 - [Phishing Email Examples](https://www.hooksecurity.co/phishing-email-examples)
 - [10 Best Phishing Simulation Examples](https://blog.usecure.io/10-best-phishing-simulation-examples)
 
-### Email
+### Email (OSINT/Recon)
+- [theHarvester](https://github.com/laramies/theHarvester)
 - [Samurai](https://github.com/OffXec/Samurai)
 - [Buster](https://github.com/sham00n/buster)
 - [Hunter](https://hunter.io/)
