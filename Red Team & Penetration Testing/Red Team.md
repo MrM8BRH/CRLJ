@@ -39,6 +39,12 @@ Resources and Tools
 - [OSCE3-Complete-Guide](https://github.com/CyberSecurityUP/OSCE3-Complete-Guide)
 - [Red Team / Pentest](https://johnermac.github.io/menu/)
 - [CEH-v11-Study-Guide](https://github.com/imrk51/CEH-v11-Study-Guide)
+- [OSCP Cheatsheet - noobsec](https://www.noobsec.net/oscp-cheatsheet/)
+- [Active Directory (AD) Cheatsheet - noobsec](https://www.noobsec.net/ad-cheatsheet/)
+- [CRTP Cheatsheet - noobsec](https://www.noobsec.net/crtp-cheatsheet/)
+- [Linux Privilege Escalation Cheatsheet - noobsec](https://www.noobsec.net/privesc-linux/)
+- [Windows Privilege Escalation Cheatsheet - noobsec](https://www.noobsec.net/privesc-windows/)
+- [MySQL Injection cheatsheet - noobsec](https://www.noobsec.net/sqli-cheatsheet/)
 - [Game Hacking](https://github.com/dsasmblr/game-hacking)
 
 ### Tools
