@@ -11,6 +11,8 @@ Roadmaps
 Resources
 ---------
 - [Awesome Cyber Security University](https://github.com/brootware/awesome-cyber-security-university)
+- [Free_CyberSecurity_Professional_Development_Resources](https://github.com/gerryguy311/Free_CyberSecurity_Professional_Development_Resources)
+- [90DaysOfCyberSecurity](https://github.com/farhanashrafdev/90DaysOfCyberSecurity)
 - [PWN College](https://pwn.college/)
 - [IT & Cybersecurity](https://start.me/p/KMqznE/it-cyber-security)
 - [Cybersecurity Guide](https://cybersecurityguide.org/resources/cybersecurity-101/)
