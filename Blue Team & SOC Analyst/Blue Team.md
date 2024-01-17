@@ -16,6 +16,7 @@ Resources and Tools
 - [Awesome Security Hardening](https://github.com/decalage2/awesome-security-hardening)
 
 #### Ransomware
+- [Ransomware live](https://ransomware.live/#/)
 - [RansomWatch](https://ransomwatch.telemetry.ltd/#/INDEX)
 - [RansomFeed](https://www.ransomfeed.it/)
 - [Scam Alert](https://scam-alert.io/)
