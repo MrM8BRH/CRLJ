@@ -13,6 +13,7 @@ Resources and Tools
 
 #### Hardening
 - [Windows Hardening](https://github.com/0x6d69636b/windows_hardening)
+- [Linux Hardening Guide](https://madaidans-insecurities.github.io/guides/linux-hardening.html)
 - [Awesome Security Hardening](https://github.com/decalage2/awesome-security-hardening)
 
 #### Ransomware
