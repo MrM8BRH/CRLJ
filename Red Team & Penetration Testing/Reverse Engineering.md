@@ -11,6 +11,7 @@ Workshops
 Resources
 ---------
 - [Awesome Reversing](https://github.com/tylerha97/awesome-reversing)
+- [Reverse Engineering For Everyone!](https://0xinfection.github.io/reversing/)
 - [Reverse Engineering Resources](https://github.com/wtsxDev/reverse-engineering)
 - [Car Hacking](https://illmatics.com/carhacking.html)
 - [PS3 Hypervisor Reverse Engineering](https://www.psdevwiki.com/ps3/Hypervisor_Reverse_Engineering)
