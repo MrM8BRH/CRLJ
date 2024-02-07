@@ -13,6 +13,7 @@ Resources
 - [Awesome Cyber Security University](https://github.com/brootware/awesome-cyber-security-university)
 - [Free_CyberSecurity_Professional_Development_Resources](https://github.com/gerryguy311/Free_CyberSecurity_Professional_Development_Resources)
 - [Daniel Kelley: Top 30 Cybersecurity Posts Swipe File](https://gold-marten-204.notion.site/2d292e0b941146ef858a125bf1cb0eb3?v=f04ea483a23b4119ad85592c6e8e961b)
+- [HackerRepo.org](https://github.com/The-Art-of-Hacking/h4cker)
 - [90DaysOfCyberSecurity](https://github.com/farhanashrafdev/90DaysOfCyberSecurity)
 - [PWN College](https://pwn.college/)
 - [IT & Cybersecurity](https://start.me/p/KMqznE/it-cyber-security)
