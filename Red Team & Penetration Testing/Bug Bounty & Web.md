@@ -42,6 +42,7 @@ Web Security Resources
 - [Awesome WAF](https://github.com/0xInfection/Awesome-WAF)
 - [XSS Payload List](https://github.com/payloadbox/xss-payload-list)
 - [CSRF PoC Generator](https://security.love/CSRF-PoC-Genorator/)
+- [Advance Web Application Penetration Checklist](https://alike-lantern-72d.notion.site/Advance-Web-Application-Penetration-Checklist-6e941fa2c305431192889a2ea4f3bf91)
 - [Bug Bounty Cheatsheet](https://m0chan.github.io/2019/12/17/Bug-Bounty-Cheetsheet.html)
 - [Awesome Oneliner Bug Bounty](https://github.com/dwisiswant0/awesome-oneliner-bugbounty)
 - [Bug Bounty Cheatsheet](https://github.com/EdOverflow/bugbounty-cheatsheet)
@@ -92,7 +93,7 @@ Web Security Tools
 - [GitTools](https://github.com/internetwache/GitTools)
 
 Reconnaissance
------
+--------------
 - [Web Check GitHub Repository](https://github.com/lissy93/web-check)
 - [Web Check Website](https://web-check.xyz)
 - [Netlas Host Information](https://app.netlas.io/host/)
