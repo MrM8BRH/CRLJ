@@ -17,6 +17,7 @@ Cyber threat intelligence is knowledge, skills and experience-based information 
 - [DarkFeed](https://darkfeed.io/indexransomware/)
 - [Open Source Threat Intel Feeds](https://github.com/Bert-JanP/Open-Source-Threat-Intel-Feeds)
 - [IoCs Repository by SophosLabs](https://github.com/sophoslabs/IoCs)
+- [malware-IoC](https://github.com/CyberThreatIntelligenceENTEL/malware-IoC/)
 - [SOC Prime](https://socprime.com/)
 - [Mihari Knowledge Base](https://cat-house-faa.notion.site/Mihari-Knowledge-Base-266994ff61204428ba6cfcebe40b0bd1)
 - [InfraGard](https://www.infragard.org/)
