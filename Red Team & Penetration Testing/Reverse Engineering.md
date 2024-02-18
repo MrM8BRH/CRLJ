@@ -22,6 +22,8 @@ Tools
 -----
 - [Reverse Engineer's Toolkit](https://github.com/mentebinaria/retoolkit) 
 - [Angr](https://github.com/angr/angr)
+- [Godbolt](https://godbolt.org/)
+- [Dogbolt](https://dogbolt.org/)
 - [Bamfdetect](https://github.com/bwall/bamfdetect)
 - [BAP](https://github.com/BinaryAnalysisPlatform/bap)
 - [BARF](https://github.com/programa-stic/barf-project)
