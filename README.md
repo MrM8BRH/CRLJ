@@ -22,12 +22,6 @@
 
 </div>
 
-Who I Am
---------
-I'm Ismael Jabr, a Palestinian Muslim deeply immersed in the field of Cybersecurity since 2013. In 2022, I earned a bachelor's degree in Computer Networks and Information Security from Al-Najah University, and I currently work as a cybersecurity engineer. Alongside my academic journey, I actively participate in cybersecurity communities, collecting useful stuff like bookmarks and detailed notes. Check out this collection to see my journey in cybersecurity and find helpful information and resources.
-
-[Linktree](https://linktr.ee/mrm8brh)
-
 Who is Eligible to Utilize This Repository?
 -------------------------------------------
 This repository is for anyone interested in cybersecurity, including professionals, students, and hackers. It is a comprehensive resource for anyone actively working or learning in the cybersecurity domain.
