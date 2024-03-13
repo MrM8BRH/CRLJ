@@ -29,3 +29,6 @@ Resources and Tools
 #### DMARC
 - [DMARC Tester 1](https://dmarc-tester.com/)
 - [DMARC Tester 2](https://www.dmarctester.com/)
+
+#### DLP
+- [DLP Test](https://dlptest.com/)
