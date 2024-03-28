@@ -157,6 +157,7 @@ Dorks
 
 Web Scraping Tools and Resources
 --------------------------------
+- [Botasaurus](https://github.com/omkarcloud/botasaurus)
 - [WebPalm](https://github.com/Malwarize/webpalm)
 - [Scrapy](https://scrapy.org/)
 - [Colly](https://go-colly.org/)
