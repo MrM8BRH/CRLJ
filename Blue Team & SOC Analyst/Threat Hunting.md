@@ -34,6 +34,7 @@ Throughout this process, cyber threat hunters gather as much information as poss
 
 Resources & Tools
 -----------------
+- [ThreatHunting Keywords](https://mthcht.github.io/ThreatHunting-Keywords/)
 - [Threat Hunter Playbook](https://threathunterplaybook.com/intro.html)
 - [Roota](https://roota.io/)
 - [Uncoder](https://uncoder.io/)
