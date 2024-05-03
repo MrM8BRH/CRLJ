@@ -68,6 +68,7 @@ Web Security Tools
 - [BeEF (The Browser Exploitation Framework)](https://beefproject.com/)
 - [Invicti Security](https://www.invicti.com/)
 - [Nikto](https://github.com/sullo/nikto)
+- [Arjun](https://github.com/s0md3v/Arjun)
 - [Cariddi](https://github.com/edoardottt/cariddi)
 - [Wapiti Scanner](https://wapiti-scanner.github.io/)
 - [TerminatorZ](https://github.com/blackhatethicalhacking/TerminatorZ)
