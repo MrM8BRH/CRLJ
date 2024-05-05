@@ -10,6 +10,7 @@ Resources and Tools
 - [DevSecOpsGuides](https://github.com/devsecopsguides/devsecopsguides.github.io)
 - [Awesome Security](https://github.com/sbilly/awesome-security)
 - [SAAS Attacks](https://github.com/pushsecurity/saas-attacks)
+- [Ports Database](https://www.speedguide.net/ports.php)
 
 #### Hardening
 - [Windows Hardening](https://github.com/0x6d69636b/windows_hardening)
