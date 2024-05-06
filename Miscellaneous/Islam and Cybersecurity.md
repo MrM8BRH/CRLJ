@@ -1,3 +1,7 @@
+**[What is Islam?](https://www.islamicity.org/covers/whatisislam/)**
+
+[Understanding Islam: The Definitive Guide](https://simplyislam.academy/blog/understanding-islam-the-definitive-guide)
+
 At first I want to make an important point, this speech is not propaganda or advertising for the Islamic religion, it is directed to everyone who is interested in knowing more about the Islamic religion and how it facilitates people's lives in all spheres of life.
 
 **Thank God for the blessing of Islam**
@@ -76,11 +80,3 @@ It is important to note that these challenges are not reflective of all workplac
 “The Koran, the revealed word of God, was the closest thing to a miracle in Mohammed’s life. He had not been a poet; he had no gift of words. Yet the verses of the Koran, as he received them and recited them to the faithful, were better than any verses which the professional poets of the tribes could produce. This, to the Arabs, was a miracle. To them the gift of words was the greatest gift, the poet was all-powerful. In addition the Koran said that all men were equal before God, that the world should be a democratic state-Islam. It was this political heresy, plus Mohammed’s desire to destroy all the 360 idols in the courtyard of the Caaba, which brought about his banishment. The idols brought the desert tribes to Mecca, and that meant trade. So the business men of Mecca, the capitalists, of which he had been one, set upon Mohammed. Then he retreated to the desert and demanded sovereignty over the world.
 
 “The rise of Islam began. Out of the desert came a flame which would not be extinguished-a democratic army fighting as a unit and prepared to die without wincing. Mohammed had invited the Jews and Christians to join him; for he was not building a new religion. He was calling all who believed in one God to join in a single faith. If the Jews and Christians had accepted his invitation Islam would have conquered the world. They didn’t. They would not even accept Mohammed’s innovation of humane warfare. When the armies of the prophet entered Jerusalem not a single person was killed because of his faith. When the crusaders entered the city, centuries later, not a Moslem man, woman, or child was spared. But the Christians did accept one Moslem idea-the place of learning, the university.”
-
-Resrouces
----------
-- [Islam](https://www.history.com/topics/religion/islam)
-- [Understanding Islam: The Definitive Guide](https://simplyislam.academy/blog/understanding-islam-the-definitive-guide)
-- [Knowledge](https://en.wikipedia.org/wiki/Ilm_(Arabic))
-- [Understanding Sharia: The Intersection of Islam and the Law](https://www.cfr.org/backgrounder/understanding-sharia-intersection-islam-and-law)
-- [Islamic Resources](https://start.me/w/4Glv8X)
