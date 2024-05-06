@@ -73,6 +73,8 @@ Incident Response Resources and Playbooks
 - [SOCFortress Playbooks](https://github.com/socfortress/Playbooks)
 - [CaseManager](https://github.com/crowdere/CaseManager)
 - [Incident Response Linux](https://github.com/vm32/Linux-Incident-Response)
+- [ID Ransomware](https://id-ransomware.malwarehunterteam.com/)
+- [No more Ransom](https://www.nomoreransom.org/en/index.html)
 
 <div align="center">
 
