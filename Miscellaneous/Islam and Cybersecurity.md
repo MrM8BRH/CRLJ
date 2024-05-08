@@ -1,6 +1,9 @@
-**[What is Islam?](https://www.islamicity.org/covers/whatisislam/)**
-
-[Understanding Islam: The Definitive Guide](https://simplyislam.academy/blog/understanding-islam-the-definitive-guide)
+- [What is Islam?](https://www.islamicity.org/covers/whatisislam/)
+- [Understanding Islam: The Definitive Guide](https://simplyislam.academy/blog/understanding-islam-the-definitive-guide)
+- [LEARN ISLAM](https://learn-islam.org/)
+- [AL-MADINA](https://www.almadina.org/home)
+- [whyislam](https://www.whyislam.org/)
+- [Drzakirchannel](https://www.youtube.com/@Drzakirchannel/videos)
 
 At first I want to make an important point, this speech is not propaganda or advertising for the Islamic religion, it is directed to everyone who is interested in knowing more about the Islamic religion and how it facilitates people's lives in all spheres of life.
 
