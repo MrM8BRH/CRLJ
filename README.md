@@ -30,7 +30,14 @@ IStandWithPalestine
 -------------------
 <img src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fgetwallpapers.com%2Fwallpaper%2Ffull%2Ff%2F4%2Fe%2F1399635-palestine-wallpaper-3840x2160-windows-7.jpg&f=1&nofb=1ipt=9bbbeda7144f1745c72fe7a389658d0b0e4091405154f5845ebb87a13a4a8706&ipo=images" width="435" height="235px">
 
-**Cybersecurity beginners should learn *IT fundamentals*, *Network*, *Programming*, *Scripting*, and *Linux*. Also, systematically go through the table of contents without skipping any topics.**
+For beginners in cybersecurity, it's important to cover these areas:
+- IT fundamentals
+- Networking (Network+ or CCNA)
+- Programming basics, Object-Oriented Programming (OOP); understanding data structures is a plus (C++ or Java are good starting points)
+- Linux & Windows Server
+- Scripting (Bash & Batch)
+
+After completing the previous topics/areas, it's advisable to systematically follow the table of contents below without skipping any topics.
 
 Table of Contents
 -----------------
