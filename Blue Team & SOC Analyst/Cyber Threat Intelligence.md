@@ -193,6 +193,7 @@ Cyber threat intelligence is knowledge, skills and experience-based information 
 17.  [RedDrip7 APT tools - GitHub](https://github.com/RedDrip7/APT_Digital_Weapon)
 18.  [RedDrip7 APT map - Qianxin Threat Intelligence Center](https://ti.qianxin.com/apt/)
 19.  [Carnegie Endowment for International Peace - Special Projects](https://carnegieendowment.org/specialprojects/protectingfinancialstability/timeline)
+20.  [Public Cybergeist Threat Intel Feeds](https://cybergeist.io/feeds)
 
 ### Intelligence Agency and Security Services Internal Structure
 - China: [Chinese Cyber Operations Groups](https://xorl.wordpress.com/2021/04/20/chinese-cyber-operations-groups/)
