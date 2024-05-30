@@ -37,3 +37,10 @@ Resources and Tools
 - [Offen Osint](https://github.com/Double2Sky/OffenOsint)
 - [Septor Linux](https://septor.sourceforge.io/)
 - [OSINTUX](https://www.osintux.org/)
+
+#### YouTube channel search tools with multiple search filters
+- [Channelcrawl](https://channelcrawl.com)
+- [Aitoolskit](https://aitoolskit.ai/youtube-channel-search/output)
+- [Channelcrawler](https://channelcrawler.com/)
+- [Aitoolskit](https://aitoolskit.ai/youtube-channel-search/output)
+- [Ytubetool](https://ytubetool.com/tools/youtube-channel-search)
