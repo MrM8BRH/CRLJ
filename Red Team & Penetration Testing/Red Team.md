@@ -28,6 +28,7 @@ Resources and Tools
 - [Hacktricks](https://book.hacktricks.xyz/welcome/readme)
 - [Pentest Monkey](https://pentestmonkey.net/)
 - [Offensive Security Cheat Sheet](https://github.com/Totes5706/Offensive-Security-Cheat-Sheet)
+- [Awesome CI/CD Attacks](https://github.com/TupleType/awesome-cicd-attacks)
 - [Dork Genius](https://dorkgenius.com/)
 - [RedTips](https://github.com/vysecurity/RedTips)
 - [Pentest Cheat Sheets ](https://github.com/Kitsun3Sec/Pentest-Cheat-Sheets)
