@@ -7,6 +7,11 @@ Mobile Application Penetration Testing
 Mobile Application Penetration Testing, also referred to as “mobile app pen testing” or “mobile app security testing,” is an exhaustive assessment process that entails actively probing and evaluating a mobile application for weaknesses and vulnerabilities. This assessment is carried out by ethical hackers, also known as penetration testers, who simulate real-world attacks to identify security flaws. This process is crucial because it helps developers to pinpoint potential problems before malicious hackers can exploit them. Mobile Application Penetration Testing is a proactive approach to enhancing the security of mobile applications by identifying and addressing potential security threats.
 
 ### Resources & Tools
+- [Diving Deep: A Comprehensive Guide to Android Penetration Testing — Part 1](https://medium.com/@hackersdump0/diving-deep-a-comprehensive-guide-to-android-penetration-testing-part-1-392cf9abf93f)
+- [Diving Deep: A Comprehensive Guide to Android Penetration Testing — Part 2](https://medium.com/@hackersdump0/diving-deep-a-comprehensive-guide-to-android-penetration-testing-part-2-9c33c319a696)
+- [Diving Deep: A Comprehensive Guide to Android Penetration Testing — Part 3](https://medium.com/@hackersdump0/diving-deep-a-comprehensive-guide-to-android-penetration-testing-part-3-99e86d021190)
+- [Diving Deep: A Comprehensive Guide to Android Penetration Testing — Part 4](https://medium.com/@hackersdump0/diving-deep-a-comprehensive-guide-to-android-penetration-testing-part-4-9bba2880b8cb)
+- [Diving Deep: A Comprehensive Guide to Android Penetration Testing — Part 5](https://medium.com/@hackersdump0/diving-deep-a-comprehensive-guide-to-android-penetration-testing-part-5-c1343b0f0ef9)
 - [A Step-by-Step Android Penetration Testing Guide for Beginners](https://infosecwriteups.com/a-step-by-step-android-penetration-testing-guide-for-beginners-8435e5e969a3?gi=5c1c4415f304)
 - [Android Security Exploits YouTube Curriculum](https://github.com/actuator/Android-Security-Exploits-YouTube-Curriculum)
 - [Mobile App Pentest Cheat Sheet](https://github.com/tanprathan/MobileApp-Pentest-Cheatsheet)
