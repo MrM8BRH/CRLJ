@@ -33,9 +33,10 @@ Tools and Resources
 - [Malcolm - Network Traffic Analysis Tool](https://github.com/cisagov/Malcolm)
 - [Apackets](https://apackets.com/)
 - [Aircrack-ng](https://www.aircrack-ng.org/)
+- [Wi-Fi Exploitation Framework (WEF)](https://github.com/D3Ext/WEF)
+- [Freeway](https://github.com/FLOCK4H/Freeway)
 - [Wi-Fi Attacks](https://techgenix.com/wi-fi-attacks/)
 - [Wi-Fi Guide](https://ricardojoserf.github.io/wifiguide/)
-- [Wi-Fi Exploitation Framework (WEF)](https://github.com/D3Ext/WEF)
 - [VIPROY](https://github.com/fozavci/viproy-voipkit)
 
 
