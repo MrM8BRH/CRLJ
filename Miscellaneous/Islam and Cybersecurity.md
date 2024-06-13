@@ -1,9 +1,8 @@
-- [What is Islam?](https://www.islamicity.org/covers/whatisislam/)
-- [Understanding Islam: The Definitive Guide](https://simplyislam.academy/blog/understanding-islam-the-definitive-guide)
+- [Yaqeen Institute - Website](https://yaqeeninstitute.org/)
+- [Yaqeen Institute - Youtube](https://www.youtube.com/@yaqeeninstituteofficial/videos)
+- [Islam Is A Peaceful Religion](https://www.youtube.com/watch?v=Jy9tNyp03M0)
 - [LEARN ISLAM](https://learn-islam.org/)
 - [AL-MADINA](https://www.almadina.org/home)
-- [whyislam](https://www.whyislam.org/)
-- [Drzakirchannel](https://www.youtube.com/@Drzakirchannel/videos)
 
 At first I want to make an important point, this speech is not propaganda or advertising for the Islamic religion, it is directed to everyone who is interested in knowing more about the Islamic religion and how it facilitates people's lives in all spheres of life.
 
