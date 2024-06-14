@@ -225,7 +225,7 @@ Cyber threat intelligence is knowledge, skills and experience-based information 
 ### CVEs / Exploits
 - [CISA Known Exploited Vulnerabilities Catalog](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
 - [CVExploits](https://cvexploits.io/)
-- [AttackerKB Activity Feed](https://attackerkb.com/activity-feed)
+- [AttackerKB](https://attackerkb.com/topics)
 - [In The Wild](https://inthewild.io/feed)
 - [CXSecurity WLB](https://cxsecurity.com/wlb/) - [CXSecurity Exploit](https://cxsecurity.com/exploit)
 - [Linux Kernel CVEs](https://www.linuxkernelcves.com/cves)
