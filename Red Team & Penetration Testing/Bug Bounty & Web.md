@@ -151,6 +151,7 @@ Reconnaissance
 
 Dorks
 -----
+- [OneDorkForAll](https://github.com/HackShiv/OneDorkForAll)
 - [GG-Dorking](https://github.com/eslam3kl/GG-Dorking)
 - [Github-Dork](https://mr-koanti.github.io/github.html#)
 - [Bug Bounty Helper](https://dorks.faisalahmed.me/)
