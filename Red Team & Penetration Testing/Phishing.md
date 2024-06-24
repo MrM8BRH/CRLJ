@@ -140,12 +140,9 @@ Web Scraping Tools and Resources
 - [IntelTechniques Documents](https://inteltechniques.com/tools/Documents.html)
 
 ### Archives
-- [Quick Cache and Archive Search](https://cipher387.github.io/quickcacheandarchivesearch/)
+- [Quick Cache and Archive Search](https://cybdetective.com/quickcacheandarhivesearch.html)
 - [ArchiveBox](https://archivebox.io/)
 - [Internet Archive](https://archive.org/)
-- [Cached Pages](http://www.cachedpages.com/)
 - [Archive](https://archive.is/)
 - [CachedView](https://cachedview.com/)
-- [MementoWeb Time Travel](https://timetravel.mementoweb.org/)
 - [OldWeb](https://oldweb.today/)
-- [Internet Archive Wayback Machine Link Ripper](https://tools.digitalmethods.net/beta/internetArchiveWaybackMachineLinkRipper/)
