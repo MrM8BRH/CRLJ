@@ -1,8 +1,4 @@
-- [Yaqeen Institute - Website](https://yaqeeninstitute.org/)
-- [Yaqeen Institute - Youtube](https://www.youtube.com/@yaqeeninstituteofficial/videos)
-- [Islam Is A Peaceful Religion](https://www.youtube.com/watch?v=Jy9tNyp03M0)
-- [LEARN ISLAM](https://learn-islam.org/)
-- [AL-MADINA](https://www.almadina.org/home)
+[Islamic Resources](https://start.me/p/gG7rbp/islamic-resources)
 
 At first I want to make an important point, this speech is not propaganda or advertising for the Islamic religion, it is directed to everyone who is interested in knowing more about the Islamic religion and how it facilitates people's lives in all spheres of life.
 
@@ -73,7 +69,7 @@ It is important to note that these challenges are not reflective of all workplac
 
 **THE LAST GREAT PROPHET**
 
-> From [THINK AND GROW RICH by Napoleon Hill](https://ia804709.us.archive.org/4/items/in.ernet.dli.2015.91463/2015.91463.Think-And-Grow-Rich.pdf) Reviewed by Thomas Sugrue
+> From `THINK AND GROW RICH by Napoleon Hill` Reviewed by Thomas Sugrue
 
 “Mohammed was a prophet, but he never performed a miracle. He was not a mystic; he had no formal schooling; he did not begin his mission until he was forty. When he announced that he was the Messenger of God, bringing word of the true religion, he was ridiculed and labeled a lunatic. Children tripped him and women threw filth upon him. He was banished from his native city, Mecca, and his followers were stripped of their worldly goods and sent into the desert after him. When he had been preaching ten years he had nothing to show for it but banishment, poverty and ridicule. Yet before another ten years had passed, he was dictator of all Arabia, ruler of Mecca, and the head of a New World re-ligion which was to sweep to the Danube and the Pyrenees before exhausting the impetus he gave it. That impetus was three-fold: the power of words, the efficacy of prayer and man’s kinship with God.
 
