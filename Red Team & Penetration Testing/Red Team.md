@@ -8,7 +8,8 @@ A method of testing where testers target individual binary components or the app
 
 Resources and Tools
 -------------------
-- [Ired.team](https://www.ired.team/)
+- [The Hacker Recipes](https://www.thehacker.recipes/)
+- [Ired team](https://www.ired.team/)
 - [RedTeamer Tips](https://redteamer.tips/)
 - [Awesome Red Teaming](https://github.com/yeyintminthuhtut/Awesome-Red-Teaming)
 - [Awesome-Red-Team-Operation](https://github.com/CyberSecurityUP/Awesome-Red-Team-Operations)
