@@ -71,7 +71,8 @@ Resources and Tools
 - [CyberSecTalk SOC Resources](https://cybersectalk.com/soc-resources/)
 
 <div align="center">
-  
+
+![s](https://github.com/MrM8BRH/CRLJ/assets/34133187/b5bca316-1881-4d43-80bc-11894894971d)
 ![s0](https://github.com/MrM8BRH/MrM8BRH/assets/34133187/2115d661-522f-47fb-8b31-b4be95ecfebb)
 ![s1](https://github.com/MrM8BRH/MrM8BRH/assets/34133187/01cf3d29-b16b-4d79-8f50-df9863e207b0)
 ![s2](https://github.com/MrM8BRH/MrM8BRH/assets/34133187/79b5d469-f8a2-451d-adc2-e196e74cf3e1)
