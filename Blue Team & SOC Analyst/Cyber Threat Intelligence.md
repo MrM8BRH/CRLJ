@@ -306,3 +306,10 @@ Cyber threat intelligence is knowledge, skills and experience-based information 
 - [Galaxy - Threat Intelligence Taxonomy (PDF)](https://www.misp-project.org/galaxy.pdf)
 - [MISP Taxonomies (PDF)](https://www.misp-project.org/taxonomies.pdf)
 - [MISP Objects (PDF)](https://www.misp-project.org/objects.pdf)
+
+
+<div align="center">
+  
+![s-2](https://github.com/MrM8BRH/CRLJ/assets/34133187/c9579e68-4cc9-4afd-a545-5b8baa32ea01)
+
+</div>
