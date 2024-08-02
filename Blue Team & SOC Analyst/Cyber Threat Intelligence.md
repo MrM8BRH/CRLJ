@@ -311,5 +311,5 @@ Cyber threat intelligence is knowledge, skills and experience-based information 
 <div align="center">
   
 ![s-2](https://github.com/MrM8BRH/CRLJ/assets/34133187/c9579e68-4cc9-4afd-a545-5b8baa32ea01)
-
+![s-3](https://www.cisecurity.org/-/media/project/cisecurity/cisecurity/data/media/img/insights_images/blog_post_img/2023/05/diagram-of-intelligence-sources-and-indicators.png?rev=4c77b633cb484443891c213d1ed93c29&hash=6D6052E28F3ADA60571B0B06DF5A53B8)
 </div>
