@@ -50,6 +50,11 @@ Resources and Tools
 - [MySQL Injection cheatsheet - noobsec](https://www.noobsec.net/sqli-cheatsheet/)
 - [Game Hacking](https://github.com/dsasmblr/game-hacking)
 
+nmap command:
+```
+sudo nmap -n -p-  -Pn --host-timeout=100s --max-rtt-timeout=1000ms --max-retries=0 --min-rate=8192 --max-rate=16384 --min-parallelism=4096 --max-parallelism=8192 --max-scan-delay=1ms  192.168.1.0/24
+```
+
 ### Tools
 - [Osmedeus](https://github.com/j3ssie/Osmedeus)
 - [CheeseTools](https://github.com/klezVirus/CheeseTools)
