@@ -7,6 +7,7 @@ Mobile Application Penetration Testing
 Mobile Application Penetration Testing, also referred to as “mobile app pen testing” or “mobile app security testing,” is an exhaustive assessment process that entails actively probing and evaluating a mobile application for weaknesses and vulnerabilities. This assessment is carried out by ethical hackers, also known as penetration testers, who simulate real-world attacks to identify security flaws. This process is crucial because it helps developers to pinpoint potential problems before malicious hackers can exploit them. Mobile Application Penetration Testing is a proactive approach to enhancing the security of mobile applications by identifying and addressing potential security threats.
 
 ### Resources & Tools
+- [Mobile Hacker](https://www.mobile-hacker.com/)
 - [Diving Deep: A Comprehensive Guide to Android Penetration Testing — Part 1](https://medium.com/@hackersdump0/diving-deep-a-comprehensive-guide-to-android-penetration-testing-part-1-392cf9abf93f)
 - [Diving Deep: A Comprehensive Guide to Android Penetration Testing — Part 2](https://medium.com/@hackersdump0/diving-deep-a-comprehensive-guide-to-android-penetration-testing-part-2-9c33c319a696)
 - [Diving Deep: A Comprehensive Guide to Android Penetration Testing — Part 3](https://medium.com/@hackersdump0/diving-deep-a-comprehensive-guide-to-android-penetration-testing-part-3-99e86d021190)
