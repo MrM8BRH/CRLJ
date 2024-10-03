@@ -12,6 +12,7 @@ Mobile Application Penetration Testing, also referred to as “mobile app pen te
 - [Diving Deep: A Comprehensive Guide to Android Penetration Testing — Part 3](https://medium.com/@hackersdump0/diving-deep-a-comprehensive-guide-to-android-penetration-testing-part-3-99e86d021190)
 - [Diving Deep: A Comprehensive Guide to Android Penetration Testing — Part 4](https://medium.com/@hackersdump0/diving-deep-a-comprehensive-guide-to-android-penetration-testing-part-4-9bba2880b8cb)
 - [Diving Deep: A Comprehensive Guide to Android Penetration Testing — Part 5](https://medium.com/@hackersdump0/diving-deep-a-comprehensive-guide-to-android-penetration-testing-part-5-c1343b0f0ef9)
+- [Diving into ADB protocol internals (1/2)](https://www.synacktiv.com/publications/diving-into-adb-protocol-internals-12)
 - [A Step-by-Step Android Penetration Testing Guide for Beginners](https://infosecwriteups.com/a-step-by-step-android-penetration-testing-guide-for-beginners-8435e5e969a3?gi=5c1c4415f304)
 - [Android Security Exploits YouTube Curriculum](https://github.com/actuator/Android-Security-Exploits-YouTube-Curriculum)
 - [Mobile App Pentest Cheat Sheet](https://github.com/tanprathan/MobileApp-Pentest-Cheatsheet)
