@@ -69,6 +69,7 @@ Resources and Tools
 - [Awesome SOC Analyst](https://github.com/LetsDefend/awesome-soc-analyst)
 - [OpenSOC](https://opensoc.io/index.html)
 - [CyberSecTalk SOC Resources](https://cybersectalk.com/soc-resources/)
+- [SOC Interview Questions](https://github.com/LetsDefend/SOC-Interview-Questions)
 
 <div align="center">
 
