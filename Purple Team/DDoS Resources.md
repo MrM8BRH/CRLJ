@@ -12,6 +12,7 @@ DDoS allows for exponentially more requests to be sent to the target, therefore 
 
 Resources and Tools
 -------------------
+- [CISA & FBI Released Guide to Respond for DDoS Attacks](https://cybersecuritynews.com/cisa-fbi-released-guide-ddos-attacks/)
 - [Understanding DDoS Attacks](https://www.cloudflare.com/learning/ddos/what-is-a-ddos-attack/)
 - [DDoS Quick Guide (PDF)](https://www.cisa.gov/sites/default/files/publications/DDoS%20Quick%20Guide.pdf)
 - [Five Best Practices for Mitigating DDoS Attacks (PDF)](https://www.cloudflare.com/resources/assets/slt3lc6tev37/bNnFz1PMZtHvYsCWrl3n1/fe46ed61db9ee7d9e4466484d6612de7/Five-Best-Practices-for-Mitigating-DDoS-Attacks-WP.pdf)
