@@ -19,6 +19,8 @@ Social engineering is the art of manipulating, influencing, or deceiving you in 
 
 [Top Phishing Techniques](https://redteamrecipe.com/top-phishing-techniques)
 
+[Phishing Domain Scanner](https://github.com/elceef/dnstwist)
+
 ### MISC
 - [Easy Phishing Infrastructure Setup](https://payatu.com/blog/phishing-infrastructure-setup/)
 - [Namecheap](https://www.namecheap.com/)
