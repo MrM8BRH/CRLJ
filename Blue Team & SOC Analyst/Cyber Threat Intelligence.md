@@ -9,6 +9,7 @@ Cyber threat intelligence is knowledge, skills and experience-based information 
 - [OpenCTI Platform](https://github.com/OpenCTI-Platform/opencti)
 - [Vertex Synapse](https://vertex.link/synapse)
 - [DocIntel](https://docintel.org/)
+- [C2-Tracker](https://github.com/montysecurity/C2-Tracker)
 - [TweetFeed](https://tweetfeed.live/)
 - [VirusTotal](https://www.virustotal.com/gui/home/upload)
 - [Malwoverview](https://github.com/alexandreborges/malwoverview)
