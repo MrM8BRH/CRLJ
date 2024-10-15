@@ -9,6 +9,7 @@ A method of testing where testers target individual binary components or the app
 Resources and Tools
 -------------------
 - [The Hacker Recipes](https://www.thehacker.recipes/)
+- [Hacker Sploit](https://hackersploit.org/)
 - [Ired team](https://www.ired.team/)
 - [RedTeamer Tips](https://redteamer.tips/)
 - [Awesome Red Teaming](https://github.com/yeyintminthuhtut/Awesome-Red-Teaming)
