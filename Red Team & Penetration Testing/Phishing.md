@@ -37,6 +37,7 @@ Social engineering is the art of manipulating, influencing, or deceiving you in 
 
 ### Phishing Frameworks & Resources
 - [Gophish](https://getgophish.com/)
+- [Evilgophish](https://github.com/fin3ss3g0d/evilgophish)
 - [SniperPhish](https://github.com/GemGeorge/SniperPhish)
 - [AdvPhishing](https://github.com/Ignitetch/AdvPhishing)
 - [evilginx2](https://github.com/kgretzky/evilginx2)
