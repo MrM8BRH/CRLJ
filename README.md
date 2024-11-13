@@ -35,7 +35,9 @@ For beginners in cybersecurity, it's important to cover these areas:
 - Networking (Network+ or CCNA)
 - Programming basics, Object-Oriented Programming (OOP); understanding data structures is a plus (C++ or Java are good starting points)
 - Linux & Windows Server
+- Cryptography (Symmetric encryption, Asymmetric encryption, Hashing, Obfuscation, TLS/SSL, Steganography, Encoding)
 - Scripting (Bash & Batch)
+- Cybersecurity Fundamentals
 
 After completing the previous topics/areas, it's advisable to systematically follow the table of contents below without skipping any topics.
 
