@@ -132,6 +132,10 @@ Foundations of Cybersecurity
 ![Red-Purple-and-Blue-Team-Exercises](https://github.com/MrM8BRH/MrM8BRH/assets/34133187/ce8dc507-3d3c-4747-9d6b-c3cab12852cb)
 ![DS](https://github.com/MrM8BRH/MrM8BRH/assets/34133187/1489cebc-5dd1-4e7b-b49a-03c7b086e61e)
 ![DL](https://github.com/MrM8BRH/MrM8BRH/assets/34133187/b4c6605b-af2b-4673-b703-2a855f9a5b5f)
+![POP](https://github.com/user-attachments/assets/4c27766b-d7bd-4f42-8a00-52878dbdbb07)
+![DII](https://github.com/user-attachments/assets/5ef0e286-f610-42ed-9797-560ffd4d8e49)
+
+
   
 </div>
 
