@@ -41,6 +41,5 @@ Resources and Tools
 - [bunkerweb](https://github.com/bunkerity/bunkerweb)
 - [Hardentools](https://github.com/hardentools/hardentools)
 - [HardeningKitty](https://github.com/0x6d69636b/windows_hardening)
-- [Cymetricx](https://cymetricx.com/)
 
 ![GRC](https://github.com/MrM8BRH/MrM8BRH/assets/34133187/26cc6496-a3b9-4928-bc58-3d42920ecbcb)
