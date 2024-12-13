@@ -27,6 +27,7 @@ Resources and Tools
 - [PCI](https://www.pcisecuritystandards.org/)
 - [ISO](https://www.iso.org/standards.html)
 - [HIPAA](https://www.hhs.gov/hipaa/index.html)
+- [DORA](https://www.dora-info.eu/dora/)
 - [SOC 2](https://secureframe.com/hub/soc-2/what-is-soc-2)
 - [COBIT](https://www.isaca.org/resources/cobit)
 - [CCM](https://cloudsecurityalliance.org/research/cloud-controls-matrix)
