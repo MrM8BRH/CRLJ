@@ -4,6 +4,7 @@ Cyber threat intelligence is knowledge, skills and experience-based information 
 
 ### Threat Feeds and Platforms
 - [OpenTAXII](https://github.com/eclecticiq/OpenTAXII)
+- [Malware Attribute Enumeration and Characterization (MAEC™)](https://maecproject.github.io/)
 - [cti-taxii-client](https://github.com/oasis-open/cti-taxii-client)
 - [Sigma Command Line Interface](https://github.com/SigmaHQ/sigma-cli)
 - [OpenCTI Platform](https://github.com/OpenCTI-Platform/opencti)
