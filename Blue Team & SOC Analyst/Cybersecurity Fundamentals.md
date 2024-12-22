@@ -23,6 +23,7 @@ Foundations of Cybersecurity
 3.  **Threat**: Potential danger or harm.   
 4.  **Risk**: Chance of loss or harm.   
 5.  **Countermeasure**: Action taken to reduce risk or mitigate threat.
+6.  **Likelihood**: A measure that assesses how likely a threat can exploit one or more vulnerabilities.
 
 **Classification Roles**:
 1.  **Owner**: Responsible for determining the value and importance of the asset.
@@ -87,6 +88,23 @@ Foundations of Cybersecurity
 **Remove**: Take away or eliminate a threat.   
 **Avoid**: Stay away from or prevent encountering a threat.   
 **Accept**: Acknowledge and live with a certain level of risk.
+
+* * *
+
+Threat Modeling Methods:
+1. STRIDE
+2. PASTA
+3. DREAD
+4. TRIKE
+5. VAST
+6. Attack Trees
+7. OCTAVE
+8. QTMM
+9. LINDDUN
+10. CVSS
+11. MITRE ATT&CK
+12. Cyber Kill Chain
+13. NIST SP 800-30
 
 * * *
 
