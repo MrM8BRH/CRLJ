@@ -79,15 +79,16 @@ Foundations of Cybersecurity
 
 **Proactive Cybersecurity Strategies:**
 
-**Prevention**: Stopping problems before they occur.    
-**Detection**: Identifying problems when they occur.    
-**Response**: Taking action after a problem is identified.
+**Prevention**: Implementing measures to prevent risks from occurring.
+**Preparedness**: Preparing for potential risks by developing contingency plans.
+**Response**: Taking immediate action when a risk materializes.
+**Recovery**: Restoring normal operations after a disruption.
 
-**Secure**: Making something safe from harm or unauthorized access.   
-**Mitigate**: Reduce the severity or impact of a problem.   
-**Remove**: Take away or eliminate a threat.   
-**Avoid**: Stay away from or prevent encountering a threat.   
-**Accept**: Acknowledge and live with a certain level of risk.
+**Accept**: Acknowledge and document the risk as within tolerance.
+**Mitigate**: Apply additional controls or improve existing ones
+**Transfer**: Shift the risk to a third party (e.g., insurance).
+**Avoid**: Cease the activity or process creating the risk (if feasible).
+
 
 * * *
 
