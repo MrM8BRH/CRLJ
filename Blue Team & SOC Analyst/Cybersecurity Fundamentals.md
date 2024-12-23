@@ -25,16 +25,22 @@ Foundations of Cybersecurity
 5.  **Countermeasure**: Action taken to reduce risk or mitigate threat.
 6.  **Likelihood**: A measure that assesses how likely a threat can exploit one or more vulnerabilities.
 
+* * *
+
 **Classification Roles**:
 1.  **Owner**: Responsible for determining the value and importance of the asset.
 2.  **Custodian**: In charge of safeguarding and maintaining the asset.
 3.  **User**: Interacts with and utilizes the asset.
+
+* * *
 
 **Classification Criteria**:
 1.  **Value**: Assessing the worth or significance of the asset.
 2.  **Age**: Determining how long the asset has been in use.
 3.  **Replacement Cost**: Evaluating the expense of acquiring a new asset.
 4.  **Useful Life Time**: Estimating how much longer the asset will remain functional.
+
+* * *
 
 **Classifying Vulnerabilities**:
 1.  **Policy Flaws**: Weaknesses in security policies or procedures.
@@ -47,6 +53,8 @@ Foundations of Cybersecurity
 8.  **Hardware Vulnerability**: Weaknesses in physical components.
 9.  **Physical Access to Network Resource**: Unauthorized physical access.
 10.  **Natural Factors (fire/earthquake/flood/storms)**: Environmental risks.
+
+* * *
 
 **Classifying Countermeasures**:
 1.  **Administrative**: Policies, procedures, and training to manage security.
@@ -77,17 +85,20 @@ Foundations of Cybersecurity
 
 * * *
 
-**Proactive Cybersecurity Strategies:**
+**Supply Chain Risk Management:**
 
-**Prevention**: Implementing measures to prevent risks from occurring.
-**Preparedness**: Preparing for potential risks by developing contingency plans.
-**Response**: Taking immediate action when a risk materializes.
-**Recovery**: Restoring normal operations after a disruption.
+*   **Prevention**: Implementing measures to prevent risks from occurring.
+*   **Preparedness**: Preparing for potential risks by developing contingency plans.
+*   **Response**: Taking immediate action when a risk materializes.
+*   **Recovery**: Restoring normal operations after a disruption.
 
-**Accept**: Acknowledge and document the risk as within tolerance.
-**Mitigate**: Apply additional controls or improve existing ones
-**Transfer**: Shift the risk to a third party (e.g., insurance).
-**Avoid**: Cease the activity or process creating the risk (if feasible).
+* * *
+
+**Risk Management Decisions:**
+*   **Accept**: Acknowledge and document the risk as within tolerance.
+*   **Mitigate**: Apply additional controls or improve existing ones
+*   **Transfer**: Shift the risk to a third party (e.g., insurance).
+*   **Avoid**: Cease the activity or process creating the risk (if feasible).
 
 
 * * *
