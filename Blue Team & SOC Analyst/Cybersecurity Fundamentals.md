@@ -156,8 +156,11 @@ Threat Modeling Methods:
 
 <div align="center">
 
-<img src="https://github.com/MrM8BRH/MrM8BRH/assets/34133187/3f46d342-6aab-4d00-b3ef-968ae825ae7e" width="450px" hight="250px">
+<img src="https://github.com/user-attachments/assets/334331ef-f81a-4402-860f-08d598ab742c" width="350px" hight="250px">
+<br>
+<img src="https://github.com/MrM8BRH/MrM8BRH/assets/34133187/3f46d342-6aab-4d00-b3ef-968ae825ae7e" width="550px" hight="350px">
 
+![thesecmap](https://github.com/user-attachments/assets/588b9ac3-97fc-4118-b264-704815957c22)
 ![teams](https://github.com/MrM8BRH/MrM8BRH/assets/34133187/189b9dd5-c394-4101-a7f6-032d1f97955a)
 ![Red-Purple-and-Blue-Team-Exercises](https://github.com/MrM8BRH/MrM8BRH/assets/34133187/ce8dc507-3d3c-4747-9d6b-c3cab12852cb)
 ![DS](https://github.com/MrM8BRH/MrM8BRH/assets/34133187/1489cebc-5dd1-4e7b-b49a-03c7b086e61e)
