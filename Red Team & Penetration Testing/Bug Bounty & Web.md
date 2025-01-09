@@ -21,6 +21,7 @@ Web Security Resources
 - [Awesome Web Security](https://github.com/qazbnm456/awesome-web-security)
 - [How HTTPS Works](https://howhttps.works/episodes/)
 - [TLS 1.2 Cheatsheet](https://tls12.xargs.org/)
+- [https://www.robotstxt.org/](https://www.robotstxt.org/)
 - [JWT Attacks on Notion](https://juba-notes.notion.site/JWT-attacks-4f62b2b641a84032bc624f8e8432345d)
 - [Bug Bounty Subreddit](https://www.reddit.com/r/bugbounty/)
 - [Web Security Research Subreddit](https://www.reddit.com/r/websecurityresearch/)
