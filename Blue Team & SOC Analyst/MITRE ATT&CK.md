@@ -11,6 +11,7 @@ With the creation of ATT&CK, MITRE is fulfilling its mission to solve problems f
 **MITRE ATT&CK Resources**
 - [MITRE ATT&CK Navigator](https://mitre-attack.github.io/attack-navigator/)
 - [MITRE ATT&CK Framework](https://attack.mitre.org/)
+- [Center for Threat-Informed Defense](https://ctid.mitre.org/)
 - [MITRE ATT&CK APT Groups and Operations](https://attack.mitre.org/groups/)
 - [Working with ATT&CK](https://attack.mitre.org/resources/working-with-attack/)
 - [MITRE D3FEND](https://d3fend.mitre.org/)
