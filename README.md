@@ -31,10 +31,7 @@ IStandWithPalestine
 <img src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fgetwallpapers.com%2Fwallpaper%2Ffull%2Ff%2F4%2Fe%2F1399635-palestine-wallpaper-3840x2160-windows-7.jpg&f=1&nofb=1ipt=9bbbeda7144f1745c72fe7a389658d0b0e4091405154f5845ebb87a13a4a8706&ipo=images" width="435" height="235px">
 
 For beginners in cybersecurity, it's important to cover these areas:
-![cb951be0a6ab11ef897c81c5d11b737b map](https://github.com/user-attachments/assets/086484b2-2a1a-4bbf-9a39-7de5eef0094f)
-
-
-After completing the previous topics/areas, it's advisable to systematically follow the table of contents below without skipping any topics.
+[Cybersecurity Roadmap](https://www.mindmeister.com/app/map/3582871641?t=XHRCVQmjqw)
 
 Table of Contents
 -----------------
