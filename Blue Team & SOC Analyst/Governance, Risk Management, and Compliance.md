@@ -43,3 +43,5 @@ Resources and Tools
 - [HardeningKitty](https://github.com/0x6d69636b/windows_hardening)
 
 ![GRC](https://github.com/MrM8BRH/MrM8BRH/assets/34133187/26cc6496-a3b9-4928-bc58-3d42920ecbcb)
+![C](https://github.com/user-attachments/assets/ccf18ddc-ca62-453d-937e-275e71d55b5c)
+
