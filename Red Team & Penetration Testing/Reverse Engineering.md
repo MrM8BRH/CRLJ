@@ -5,7 +5,6 @@ Reverse engineering is a process or method through which one attempts to underst
 Workshops
 ---------
 - [Malware Unicorn](https://malwareunicorn.org/#/)
-- [BeginRE](https://www.begin.re/)
 - [OpenSecurityTraining2](https://p.ost2.fyi/)
 
 Resources
