@@ -8,6 +8,7 @@ A method of testing where testers target individual binary components or the app
 
 Resources and Tools
 -------------------
+- [Offensive-Resources V3](https://github.com/Zeyad-Azima/Offensive-Resources)
 - [The Hacker Recipes](https://www.thehacker.recipes/)
 - [Hacker Sploit](https://hackersploit.org/)
 - [Ired team](https://www.ired.team/)
