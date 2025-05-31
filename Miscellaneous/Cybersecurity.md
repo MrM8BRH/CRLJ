@@ -2,8 +2,6 @@ Cybersecurity
 -------------
 Cybersecurity is all about keeping our electronic devices safe from bad people who want to do harm. It's like having a digital bodyguard that protects our information from hackers and other bad guys. We also call it information technology security or electronic information security. It's really important because we use computers and the internet for so many things these days, like shopping, banking, and even controlling our homes. With all the new gadgets we have, like smart TVs and other devices that make up the Internet of Things, keeping everything secure has become one of the biggest challenges we face today.
 
-![image](https://github.com/user-attachments/assets/a509c7a2-ee6c-408f-b487-773298d027cd)
-
 List of Cybersecurity Topics
 ----------------------------
 - Red Team
