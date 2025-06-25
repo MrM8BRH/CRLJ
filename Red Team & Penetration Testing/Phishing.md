@@ -90,6 +90,7 @@ Web Scraping Tools and Resources
 - [SOCM Intelligence](https://github.com/CScorza/SOCMIntelligence)
 - [Social Searcher](https://www.social-searcher.com/)
 - [OnlyFinder](https://onlyfinder.com/)
+- [Username Search](https://www.user-searcher.com/)
 
 ### LinkedIn
 - [CrossLinked](https://github.com/m8sec/CrossLinked)
