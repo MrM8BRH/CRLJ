@@ -62,6 +62,7 @@ After the completion of the investigation, maintain detailed documentation of th
 
 Incident Response Resources and Playbooks
 -----------------------------------------
+- [Windows Incident Response](https://windowsir.blogspot.com/)
 - [Incident Response Playbooks](https://www.incidentresponse.org/playbooks/)
 - [SANS Incident Handling Policy Templates](https://www.sans.org/information-security-policy/?category=incident-handling)
 - [Atomic Threat Coverage](https://atc-project.github.io/atc-react/)
