@@ -74,3 +74,122 @@ Resources and Tools
 - [ADMX](https://admx.help/)
 - [Ultimate Windows Security](https://www.ultimatewindowssecurity.com/)
 - [Woshub](https://woshub.com/)
+
+## 1. Introduction to Active Directory  
+- **Definition**: Centralized directory service for managing Windows-based networks.  
+- **Core Functions**:  
+  - Stores and organizes network resources (users, devices, policies).  
+  - Enforces security policies and authentication.  
+  - Facilitates Single Sign-On (SSO) and delegated administration.  
+- **Scalability**: Supports millions of objects; used by ~95% of Fortune 500 companies.  
+---
+## 2. Core Components & Architecture  
+### Key Components  
+- **AD Domain Services (AD DS)**: Manages domain join, authentication, and resource access.  
+- **AD Lightweight Directory Services (AD LDS)**: Lightweight directory for application-specific data.  
+- **AD Federation Services (AD FS)**: Enables SSO across organizations.  
+- **AD Certificate Services (AD CS)**: Issues and manages digital certificates.  
+### Architectural Hierarchy  
+- **Forest**: Top-level container; multiple domains with shared schemas.  
+- **Tree**: Hierarchical grouping of domains under a forest.  
+- **Domain**: Security boundary for objects (users, groups, devices).  
+- **Organizational Units (OUs)**: Subdivisions for applying Group Policies.  
+- **Sites & Subnets**: Map physical network topology for efficient replication.  
+---
+## 3. Key AD Objects  
+- **Users**: Domain/local accounts with assigned permissions.  
+- **Computers**: Devices joined to the domain.  
+- **Groups**:  
+  - **Scopes**: Domain Local, Global, Universal.  
+  - **Types**: Security (permissions), Distribution (email lists).  
+- **Shared Folders**: Network-accessible resources.  
+- **Domain Controllers (DCs)**: Host AD DS and manage authentication.  
+---
+## 4. Replication & Trusts  
+### Replication  
+- Synchronizes data between DCs.  
+- **Types**:  
+  - **Intra-Site**: Frequent, uncompressed (same physical location).  
+  - **Inter-Site**: Scheduled, compressed (cross-site).  
+### Trusts  
+- Enable cross-domain resource sharing.  
+- **Trust Types**:  
+  - **Transitive**: Automatically extends to other domains in the forest.  
+  - **Non-Transitive**: Restricted to explicitly defined domains.  
+- **Example**:  
+```plaintext
+Forest Trust: wingtiptoys.com ↔ tailspintoys.com
+```
+## 5. Group Policy Management  
+- **Group Policy Objects (GPOs)**: These define security, software, and system configurations for users and computers.  
+- **Scope**: GPOs can be applied to Sites, Domains, or Organizational Units (OUs).  
+- **Key Use Cases**:  
+  - Enforcing firewall and antivirus policies.  
+  - Restricting local admin privileges.  
+  - Configuring Single Sign-On (SSO) and audit settings.
+
+### Group Policy Management Console (GPMC)  
+```plaintext
+Forest: adlab.org  
+└─ Domains  
+   └─ adlab.org  
+      ├─ Default Domain Policy  
+      ├─ Domain Controllers (Default Domain Controllers Policy)  
+      └─ Workstations/Servers (Custom GPOs)
+```
+## 6. Authentication Protocols (NTLM vs. Kerberos)  
+### NTLM (Legacy)  
+- **Mechanism**: NTLM uses a challenge-response protocol to authenticate users to network resources.  
+- **Weaknesses**: NTLM is susceptible to pass-the-hash attacks, which make it vulnerable to modern security threats. As a result, it is considered outdated and less secure.
+### Kerberos (Default)  
+- **Workflow**:  
+  - **AS_REQ/AS_REP**: The client sends a request to the Key Distribution Center (KDC) for a Ticket Granting Ticket (TGT), which is used to access resources.  
+  - **TGS_REQ/TGS_REP**: The client requests a service ticket from the KDC to access a specific service on the network.  
+  - **AP_REQ/AP_REP**: The client uses the service ticket to authenticate to the requested service, granting access.  
+- **PAC (Privilege Attribute Certificate)**: The PAC is embedded within the Kerberos tickets to verify and enforce the user's permissions during authentication, ensuring secure access control.
+---
+## 7. Users, Groups, & Computers  
+### User Management  
+- **Local Users**: These accounts are specific to individual machines and are not centrally managed by Active Directory.  
+- **Domain Users**: Managed centrally through Active Directory, domain users can access network resources based on their assigned permissions and group memberships.
+### Group Strategies  
+- **AGDLP**: This strategy involves nesting global groups within domain local groups for efficient and controlled resource access. Global groups are typically used for permissions, while domain local groups define access to resources.  
+- **Least Privilege**: This principle ensures that users and administrators are given the minimum permissions necessary to perform their job functions, reducing the risk of unauthorized access or accidental changes.
+---
+## 8. Active Directory Certificate Services (ADCS)  
+### Components  
+- **Certificate Authorities (CAs)**:  
+  - **Root CA**: The top-most authority in the Public Key Infrastructure (PKI) hierarchy, trusted by all entities in the network.  
+  - **Subordinate CAs**: These issue certificates under the Root CA, extending the PKI's trust chain.  
+- **Certificate Templates**: Define the usage of certificates, such as for secure email, VPN access, or smart card logon.
+### Best Practices  
+- **Treat CAs as Tier 0 assets**: Given their critical role in network security, Certificate Authorities must be protected and secured as top-tier assets within the organization.  
+- **Monitor Event IDs**: Keep an eye on specific Event IDs such as 4768 (for certificate enrollment) and 4886 (for CA configuration changes) to detect potential security issues.
+---
+## 9. Security Hardening Best Practices  
+### Protocol Hardening  
+- **Disable**:  
+  - LLMNR (Link-Local Multicast Name Resolution)  
+  - NetBIOS (NBT-NS)  
+  - NTLMv1 (an older and insecure version of NTLM)  
+- **Enable**:  
+  - SMB signing: Ensures that file-sharing communications are authenticated and integrity-checked.  
+  - Kerberos AES encryption: Use AES encryption in Kerberos authentication to enhance security and mitigate vulnerabilities.
+### Kerberos Hardening  
+- **Rotate KRBTGT account password every 180 days**: Regularly changing the KRBTGT (Kerberos Ticket Granting Ticket) password helps mitigate the risk of ticket forgery.  
+- **Use Group Managed Service Accounts (GMSA)**: GMSAs provide automated password management for service accounts, reducing the risk of manual errors and enhancing security.
+### Password Policies  
+- **Minimum Length**: Enforce a minimum password length of 15 characters to enhance password strength and reduce the likelihood of brute force attacks.  
+- **Multi-Factor Authentication (MFA)**: For accounts with elevated privileges, enforce MFA to add an additional layer of security beyond just a password.
+### ADCS Hardening  
+- **Audit certificate template changes**: Keep track of any modifications to certificate templates to prevent unauthorized changes that could impact security.  
+- **Restrict HTTP Endpoints**: Limit access to Certificate Authority endpoints by only allowing trusted and authorized IPs to communicate with them.
+---
+## 10. Troubleshooting & Optimization  
+### Tools  
+- **Event Viewer**: Use the Event Viewer to monitor and troubleshoot Kerberos-related issues (e.g., Event IDs 4768-4771) and identify replication errors.  
+- **Performance Monitor**: This tool helps you monitor replication latency, track GPO processing times, and diagnose any performance issues that could affect Active Directory's efficiency.
+### Optimization Tips  
+- **DNS Configuration**: Ensure that SRV records are correctly configured in DNS, as these records are crucial for domain controller discovery and replication.  
+- **Replication**: Align Active Directory sites and subnets with the physical network topology to optimize replication traffic and reduce latency.  
+- **GPOs**: Minimize the use of "Block Inheritance" and "Enforce" settings to avoid conflicts and improve performance when applying Group Policy Objects.
