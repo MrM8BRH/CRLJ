@@ -11,6 +11,54 @@ The information is then used to access important accounts and can result in iden
 - [Team Digitale Security Awareness](https://github.com/teamdigitale/security-awareness)
 - [BCGov Security Awareness](https://github.com/bcgov/SecurityAwareness)
 
+Phishing Attacks
+----------------
+Phishing attacks use deception to steal sensitive data or credentials.
+## Categories of Phishing Attacks
+1. **Email Phishing**: Generic fraudulent emails impersonating trusted entities (e.g., banks, Amazon).  
+2. **Spear Phishing**: Highly targeted emails tailored to specific individuals or organizations.  
+3. **Whaling**: Targets executives (e.g., CEOs) with sophisticated scams.  
+4. **Vishing (Voice Phishing)**: Phone calls pretending to be tech support, banks, or government agencies.  
+5. **Smishing (SMS Phishing)**: Malicious links or requests sent via text messages.  
+6. **Pharming**: Redirects users to fake websites via DNS or host file manipulation.  
+7. **Clone Phishing**: Replicates a legitimate email but replaces attachments/links with malicious ones.  
+8. **Angler Phishing**: Exploits social media platforms (e.g., fake customer service accounts).  
+9. **Business Email Compromise (BEC)**: Impersonates executives to trick employees into wire transfers.  
+10. **Search Engine Phishing**: Fake websites ranked in search results (e.g., fake login portals).  
+## Top 20 Phishing Techniques
+
+| **Technique**                      | **Description**                                                                  |
+| ---------------------------------- | -------------------------------------------------------------------------------- |
+| 1. **Deceptive Links**             | Fake URLs mimicking legitimate sites (e.g., `paypa1.com` vs. `paypal.com`).      |
+| 2. **Attachment Malware**          | Emails with infected attachments (e.g., PDFs, Word docs).                        |
+| 3. **Credential Harvesting**       | Fake login pages capturing usernames/passwords.                                  |
+| 4. **QR Code Phishing (Quishing)** | Malicious QR codes redirecting to phishing sites.                                |
+| 5. **Evil Twin Wi-Fi**             | Fake Wi-Fi networks mimicking legitimate hotspots.                               |
+| 6. **Malvertising**                | Malicious ads redirecting to phishing sites.                                     |
+| 7. **Watering Hole Attacks**       | Compromising websites frequented by targets (e.g., industry forums).             |
+| 8. **Session Hijacking**           | Stealing browser cookies to impersonate logged-in users.                         |
+| 9. **Ransomware Phishing**         | Phishing emails delivering ransomware (e.g., "Invoice attached").                |
+| 10. **CEO Fraud**                  | Fake emails from "executives" requesting urgent payments.                        |
+| 11. **Fake Invoice Scams**         | Bogus invoices with payment instructions to attacker accounts.                   |
+| 12. **Gift Card Scams**            | Requests to purchase gift cards for "rewards" or "urgent needs."                 |
+| 13. **Tax Fraud Phishing**         | Impersonating tax agencies (e.g., IRS) to steal financial data.                  |
+| 14. **Urgency Tactics**            | "Account suspended" or "security alert" emails pressuring quick action.          |
+| 15. **Typosquatting**              | Registering domains with typos (e.g., `facebok.com`).                            |
+| 16. **Tabnabbing**                 | Changing inactive browser tabs to phishing pages.                                |
+| 17. **Deepfake Audio/Video**       | AI-generated fake calls/videos impersonating trusted figures.                    |
+| 18. **Social Engineering**         | Manipulating victims via psychological tactics (e.g., fear, curiosity).          |
+| 19. **Fake Job Offers**            | Phishing through fraudulent recruitment portals or emails.                       |
+| 20. **Brand Impersonation**        | Mimicking logos, fonts, and email templates of trusted brands (e.g., Microsoft). |
+## Key Takeaways
+- **Most Common**: Email phishing, deceptive links, and credential harvesting.  
+- **Most Dangerous**: BEC, ransomware phishing, and deepfake impersonation.  
+- **Defense Tips**:  
+  - Use multi-factor authentication (MFA).  
+  - Train employees to spot phishing red flags (e.g., urgency, mismatched URLs).  
+  - Deploy email filters and DNS security tools.  
+  - Verify requests via secondary channels (e.g., phone calls).  
+*Phishing evolves constantly—stay informed about emerging tactics to mitigate risks.*  
+
 Social Engineering
 ------------------
 Social engineering is the art of manipulating, influencing, or deceiving you in order to gain control over your computer system. The hacker might use the phone, email, snail mail or direct contact to gain illegal access. Phishing, spear phishing, and CEO Fraud are all examples.
