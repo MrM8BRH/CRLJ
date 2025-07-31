@@ -32,6 +32,35 @@ During the **investigation phase**, the threat hunter uses technology such as ED
 **The resolution phase** involves communicating relevant malicious activity intelligence to operations and security teams so they can respond to the incident and mitigate threats. The data gathered about both malicious and benign activity can be fed into automated technology to improve its effectiveness without further human intervention.
 Throughout this process, cyber threat hunters gather as much information as possible about an attacker’s actions, methods and goals. They also analyze collected data to determine trends in an organization’s security environment, eliminate current vulnerabilities and make predictions to enhance security in the future.
 
+Windows Directories
+-------------------
+### Credential & Access Logs
+- **C:\Windows\System32\config\SAM**  
+  Stores local password hashes (common target for credential dumping attacks).
+- **C:\Windows\repair\SAM**  
+  Backup of user credentials (potential target for attackers during post-exploitation).
+- **C:\Windows\System32\config\SECURITY**  
+  Contains security policies, account permissions, and access control settings.
+### System & Event Logs
+- **C:\Windows\System32\winevt\Logs**  
+  Stores Windows Event Logs (critical for SIEM/SEM correlation and incident analysis).
+- **C:\Windows\System32\config\SYSTEM**  
+  Tracks system-wide configurations, hardware, and driver details.
+- **C:\Windows\System32\config\SOFTWARE**  
+  Registry hive containing installed software information and configuration changes.
+### Malware & Threat Hunting Indicators
+- **C:\Windows\Prefetch**  
+  Tracks recently executed programs (forensic artifact for timeline creation).
+- **C:\Windows\AppCompat\Programs\Amcache.hve**  
+  Logs execution details of applications (useful for detecting lateral movement or suspicious executions).
+- **C:\Users\%USERPROFILE%\NTUSER.dat**  
+  User-specific registry hive often abused for persistence mechanisms or malicious configuration changes.
+### Persistence & Startup Investigations
+- **C:\Users\%USERNAME%\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup**  
+  User-specific startup folder (common location for persistence via shortcuts or scripts).
+- **C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Startup**  
+  Global startup folder for all users (frequently exploited by malware for execution on boot).
+
 Resources & Tools
 -----------------
 - [ThreatHunting Keywords](https://mthcht.github.io/ThreatHunting-Keywords/)
