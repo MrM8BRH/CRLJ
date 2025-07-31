@@ -193,3 +193,25 @@ Forest: adlab.org
 - **DNS Configuration**: Ensure that SRV records are correctly configured in DNS, as these records are crucial for domain controller discovery and replication.  
 - **Replication**: Align Active Directory sites and subnets with the physical network topology to optimize replication traffic and reduce latency.  
 - **GPOs**: Minimize the use of "Block Inheritance" and "Enforce" settings to avoid conflicts and improve performance when applying Group Policy Objects.
+
+---
+
+Standard accounts
+-----------------
+
+Basic Windows accounts, such as those created for an employee by their organization’s system admin to use for normal day-to-day tasks.
+
+> They cannot perform actions that require elevated privileges, such as installing software, changing system settings, or accessing certain system files.
+
+Windows accounts
+----------------
+
+**SYSTEM:** is the most powerful account of all the default local system accounts. The SYSTEM account has complete control over the system and can access all resources and objects.  
+
+**NETWORK SERVICE:** is a local system account on the Windows operating system with limited privileges but enough to be used by specific Windows services and processes to authenticate over the network.  
+
+**LOCAL SERVICE:** is a local system account with limited privileges, is used by the processes and services they run with limited privileges locally on the system.  
+
+**COMPUTERNAME>$:** This is the computer account and it is created when a Windows computer is joined to a domain environment. The computer account is used to authenticate the computer to the domain and allow the computer to access domain resources such as shared folders, printers, and other network resources.  
+
+**ANONYMOUS LOGON:** This account is used for null session communications – in other words, for network communications – without the need to provide explicit credentials. Depending on the system configurations, this account can be used to enumerate account information, security policy, registry data, and network shares.  
