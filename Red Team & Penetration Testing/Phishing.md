@@ -59,21 +59,13 @@ Phishing attacks use deception to steal sensitive data or credentials.
   - Verify requests via secondary channels (e.g., phone calls).  
 *Phishing evolves constantly—stay informed about emerging tactics to mitigate risks.*  
 
-Social Engineering
-------------------
-Social engineering is the art of manipulating, influencing, or deceiving you in order to gain control over your computer system. The hacker might use the phone, email, snail mail or direct contact to gain illegal access. Phishing, spear phishing, and CEO Fraud are all examples.
-
-[Awesome Social Engineering](https://github.com/giuliacassara/awesome-social-engineering)
-
-[Top Phishing Techniques](https://redteamrecipe.com/top-phishing-techniques)
-
-[Phishing Domain Scanner](https://github.com/elceef/dnstwist)
-
 ### MISC
 - [Easy Phishing Infrastructure Setup](https://payatu.com/blog/phishing-infrastructure-setup/)
 - [Namecheap](https://www.namecheap.com/)
 - [How to Register a Domain Name with Amazon Route 53](https://aws.amazon.com/getting-started/hands-on/get-a-domain/)
 - [Let's Encrypt](https://letsencrypt.org/)
+- [Top Phishing Techniques](https://redteamrecipe.com/top-phishing-techniques)
+- [Phishing Domain Scanner](https://github.com/elceef/dnstwist)
 
 ### Mailing Service
 - [SimpleMail](https://www.simplemail.dev/)
