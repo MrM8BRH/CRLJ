@@ -1,4 +1,4 @@
-**1. Bug Bounty Report**
+### Bug Bounty Report
 A Bug Bounty Report is typically submitted to a platform or organization offering rewards for identifying security vulnerabilities. A comprehensive Bug Bounty Report should include the following sections:
 - **Summary Title**: A concise and descriptive title of the vulnerability.
 - **Target**: Specify the affected system, application, or component.
@@ -14,7 +14,7 @@ A Bug Bounty Report is typically submitted to a platform or organization offerin
 - **References** (optional):
     - Links to external materials, documentation, or security guides, such as OWASP resources.
 
-**2. Penetration Testing Report**
+### Penetration Testing Report
 A Penetration Testing Report is a formal document provided to clients after conducting a security assessment of their systems. A comprehensive Penetration Testing Report should include the following sections:
 - **Executive Summary**: 
     - Overview of the engagement, including objectives and scope.
