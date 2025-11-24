@@ -33,9 +33,3 @@ Navigating a Cybersecurity Career: What You Need to Know
 
 Further information on questions and answers, specifically from the perspective of the Islamic religion, can be found at the bottom of the table of contents.
 
-
-**Note**
-
-As of now, I haven't obtained any certificates in the field of cybersecurity. However, I hold a bachelor's degree, and I've acquired my knowledge through self-study using freely available online tutorials and materials.
-
-
