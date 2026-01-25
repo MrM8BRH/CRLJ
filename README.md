@@ -33,6 +33,8 @@ IStandWithPalestine
 For beginners in cybersecurity, it's important to cover these areas:
 [Cybersecurity Roadmap](https://www.mindmeister.com/app/map/3582871641?t=XHRCVQmjqw)
 
+### [DeepWiki](https://deepwiki.com/MrM8BRH/CRLJ)
+
 Table of Contents
 -----------------
 1. 🗒️ [What You Need to Know](https://github.com/MrM8BRH/CRLJ/blob/main/Miscellaneous/What%20You%20Need%20to%20Know.md)
