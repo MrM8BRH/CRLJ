@@ -44,6 +44,7 @@ Resources and Tools
 - [OSCE3-Complete-Guide](https://github.com/CyberSecurityUP/OSCE3-Complete-Guide)
 - [Red Team / Pentest](https://johnermac.github.io/menu/)
 - [CEH-v11-Study-Guide](https://github.com/imrk51/CEH-v11-Study-Guide)
+- [OSCP Hybrid Starter Template](https://nthsec.notion.site/OSCP-Hybrid-Starter-Template-2f598f4633148090830be9adc93fa8ab)
 - [OSCP Cheatsheet - noobsec](https://www.noobsec.net/oscp-cheatsheet/)
 - [Active Directory (AD) Cheatsheet - noobsec](https://www.noobsec.net/ad-cheatsheet/)
 - [CRTP Cheatsheet - noobsec](https://www.noobsec.net/crtp-cheatsheet/)
