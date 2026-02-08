@@ -285,6 +285,7 @@ dnsx -retry 3 -a -aaaa -cname -ns -ptr -mx -soa -resp -silent -l subdomains.txt
 
 <div align="center">
 
+![web](https://github.com/user-attachments/assets/8a29706f-8e9a-443e-bdc9-5cdf8d1b3233)
 ![web](https://github.com/MrM8BRH/MrM8BRH/assets/34133187/b8a11451-5be3-425a-ab38-70b145f00b18)
 ![web_](https://github.com/MrM8BRH/MrM8BRH/assets/34133187/1541353d-ec54-4801-8648-61253237020a)
   
