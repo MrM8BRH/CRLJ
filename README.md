@@ -34,6 +34,8 @@ IStandWithPalestine
 For beginners in cybersecurity, it's important to cover these areas:
 [Cybersecurity Roadmap](https://www.mindmeister.com/app/map/3582871641?t=XHRCVQmjqw)
 
+[Office Ergonomics](https://ergonomictrends.com/office-ergonomics/)
+
 ### [DeepWiki](https://deepwiki.com/MrM8BRH/CRLJ)
 
 Table of Contents
