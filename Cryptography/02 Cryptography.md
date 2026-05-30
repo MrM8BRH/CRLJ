@@ -50,6 +50,7 @@ These terms should not be confused with encryption and decryption, which focus o
 
 Resources and Tools
 -------------------
+- [Cryptography 101 with Alfred Menezes](https://cryptography101.ca/)
 - [Ciphey](https://github.com/Ciphey/Ciphey)
 - [CyberChef](https://cyberchef.io/)
 - [John the Ripper](https://github.com/openwall/john)
