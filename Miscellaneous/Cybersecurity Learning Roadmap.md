@@ -10,6 +10,7 @@ Roadmaps
 
 Resources
 ---------
+- [MIT 6.566: Computer Systems Security (Spring 2026)](https://www.youtube.com/playlist?app=desktop&list=PLA6Ht2dJt3SId7vE9P5mppWdj65_l6hl7)
 - [Bug Bounty Beginner's Roadmap](https://github.com/bittentech/Bug-Bounty-Beginner-Roadmap)
 - [Awesome Bug Bounty Roadmap](https://attacker-codeninja.github.io/2022-06-06-awesome-bug-bounty-roadmap/)
 - [Awesome Cyber Security University](https://github.com/brootware/awesome-cyber-security-university)
