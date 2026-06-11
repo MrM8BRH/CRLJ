@@ -74,6 +74,7 @@ Resources and Tools
 <div align="center">
 
 <img width="1122" height="1402" alt="image" src="https://github.com/user-attachments/assets/79936214-dd4e-4804-ae68-43be7e5ca954" />
+<img width="1024" height="1536" alt="image" src="https://github.com/user-attachments/assets/35cd848d-efba-486b-80e0-c0254f51206a" />
 
 ![s](https://github.com/MrM8BRH/CRLJ/assets/34133187/b5bca316-1881-4d43-80bc-11894894971d)
 ![s0](https://github.com/MrM8BRH/MrM8BRH/assets/34133187/2115d661-522f-47fb-8b31-b4be95ecfebb)
