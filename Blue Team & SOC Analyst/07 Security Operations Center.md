@@ -73,12 +73,11 @@ Resources and Tools
 
 <div align="center">
 
+<img width="1122" height="1402" alt="image" src="https://github.com/user-attachments/assets/79936214-dd4e-4804-ae68-43be7e5ca954" />
+
 ![s](https://github.com/MrM8BRH/CRLJ/assets/34133187/b5bca316-1881-4d43-80bc-11894894971d)
 ![s0](https://github.com/MrM8BRH/MrM8BRH/assets/34133187/2115d661-522f-47fb-8b31-b4be95ecfebb)
 ![s1](https://github.com/MrM8BRH/MrM8BRH/assets/34133187/01cf3d29-b16b-4d79-8f50-df9863e207b0)
-![s2](https://github.com/MrM8BRH/MrM8BRH/assets/34133187/79b5d469-f8a2-451d-adc2-e196e74cf3e1)
 ![SO](https://github.com/MrM8BRH/MrM8BRH/assets/34133187/0f46856a-abba-4b23-aad6-0b6c25c5bdf3)
-![s3](https://github.com/MrM8BRH/MrM8BRH/assets/34133187/ef8cbf89-96fb-4f16-805e-a1472065a831)
-![s4](https://github.com/MrM8BRH/MrM8BRH/assets/34133187/85498ddf-686c-4818-af15-00fb34c0705b)
 
 </div>
