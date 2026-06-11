@@ -27,3 +27,8 @@ With the creation of ATT&CK, MITRE is fulfilling its mission to solve problems f
 - [MITRE D3FEND](https://d3fend.mitre.org/)
 - [MITRE Cyber Analytics Repository (CAR)](https://car.mitre.org/)
 - [MITRE ATT&CK Engage](https://engage.mitre.org/)
+
+<div align="center">
+
+<img width="800" height="533" alt="image" src="https://github.com/user-attachments/assets/8f0d73a1-5922-4d51-bbd9-4a4703a17c7e" />
+</div>
