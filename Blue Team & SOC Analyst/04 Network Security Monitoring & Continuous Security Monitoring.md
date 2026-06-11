@@ -15,7 +15,11 @@ Endpoint detection and response, or EDR, is software designed to automatically p
 
 EDR collects data continuously from all endpoints on the network - desktop and laptop computers, servers, mobile devices, IoT (Internet of Things) devices and more. It analyzes this data in real time for evidence of known or suspected cyberthreats, and can respond automatically to prevent or minimize damage from threats it identifies.
 
+<div align="center">
+
 ![EDR-NDR](https://github.com/MrM8BRH/MrM8BRH/assets/34133187/ba069723-2b87-4e79-ba0d-2a9efc4c624b)
+<img width="800" height="541" alt="image" src="https://github.com/user-attachments/assets/32d23179-e217-4aff-a10e-0fbf4ad739d5" />
+</div>
 
 Clarification on Anomaly Detection
 ------------------------------------
