@@ -190,6 +190,9 @@ Ransomware Decryption Tool
 <img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/c3e76b16-e890-42d6-ac74-cbbbd52ac4c6" />
 
 ![Hierarchy-DFIR](https://github.com/MrM8BRH/MrM8BRH/assets/34133187/2d11688b-ddcb-41a3-9308-c5880e8ab385)
+
+<img width="1024" height="1536" alt="image" src="https://github.com/user-attachments/assets/effbae55-2962-4561-86a7-7daee9f4fb84" />
+
 ![IR](https://github.com/MrM8BRH/MrM8BRH/assets/34133187/29944e79-f81f-40d7-884b-6120b0fe49a7)
 
 <img width="998" height="999" alt="image" src="https://github.com/user-attachments/assets/d45b45ff-2bfa-4aae-b163-a4cb15e2e0af" />
