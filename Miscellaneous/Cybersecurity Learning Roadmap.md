@@ -8,6 +8,13 @@ Roadmaps
 - [CyberSeek Cybersecurity Career Pathway](https://www.cyberseek.org/pathway.html)
 - [CompTIA IT Careers Path Roadmap](https://www.comptia.org/content/it-careers-path-roadmap)
 
+<div align="center">
+
+<img width="800" height="446" alt="image" src="https://github.com/user-attachments/assets/69453552-d572-4082-9fc9-e679df549f11" />
+</div>
+
+
+
 Resources
 ---------
 - [MIT 6.566: Computer Systems Security (Spring 2026)](https://www.youtube.com/playlist?app=desktop&list=PLA6Ht2dJt3SId7vE9P5mppWdj65_l6hl7)
