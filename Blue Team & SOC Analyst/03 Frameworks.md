@@ -31,4 +31,5 @@ With the creation of ATT&CK, MITRE is fulfilling its mission to solve problems f
 <div align="center">
 
 <img width="800" height="533" alt="image" src="https://github.com/user-attachments/assets/8f0d73a1-5922-4d51-bbd9-4a4703a17c7e" />
+<img width="800" height="533" alt="image" src="https://github.com/user-attachments/assets/204eea80-a802-48fc-9fca-35e21e9c07fc" />
 </div>
