@@ -146,18 +146,8 @@ List of Roles in Cybersecurity
 - ICS/OT Security Assessment Consultant 
 - Cyber Crime Investigator
 
-Best Websites to Compare Cybersecurity Solutions
-------------------------------------------------
-- [Gartner](https://www.gartner.com/reviews/markets)
-- [Forrester](https://www.forrester.com/research/)
-- [Expert Insights](https://expertinsights.com/services)
-- [G2](https://www.g2.com/categories)
-- [SourceForge](https://sourceforge.net/software/cybersecurity/)
-- [CyberCompare](https://cybercompare.com/providers/)
+<div align="cemter">
 
-I've compiled additional resources related to cybersecurity and privacy topics:
--------------------------------------------------------------------------------
-- [Explore CyberSecurity Conferences](https://github.com/MrM8BRH/CyberSecurity_Conferences/blob/main/README.md)
-- [Visit the IT & Cybersecurity Hub](https://start.me/p/KMqznE/it-cyber-security)
-- [Access Comprehensive Privacy, Security, and FOSS Resources](https://github.com/MrM8BRH/Privacy-Security-FOSS-Resources)
-- [Interview Questions](https://github.com/MrM8BRH/Interview-Questions)
+<img width="800" height="834" alt="image" src="https://github.com/user-attachments/assets/3ae9ccda-75a2-4fc0-88b7-a8f81392322f" />
+</div>
+
