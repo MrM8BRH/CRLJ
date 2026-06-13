@@ -285,7 +285,10 @@ dnsx -retry 3 -a -aaaa -cname -ns -ptr -mx -soa -resp -silent -l subdomains.txt
 
 <div align="center">
 
+<img width="800" height="533" alt="image" src="https://github.com/user-attachments/assets/a3b1b417-0a65-4b7e-ba1b-abdfdc747db1" />
 <img width="960" height="620" alt="image" src="https://github.com/user-attachments/assets/62ebdcdb-f1c2-45da-ac50-2d1f123685fa" />
+<img width="800" height="533" alt="image" src="https://github.com/user-attachments/assets/c9fddfd8-ec4d-44ad-9465-23935862b3c6" />
+
 
 ![web](https://github.com/user-attachments/assets/8a29706f-8e9a-443e-bdc9-5cdf8d1b3233)
 ![web](https://github.com/MrM8BRH/MrM8BRH/assets/34133187/b8a11451-5be3-425a-ab38-70b145f00b18)
