@@ -574,3 +574,8 @@ To mitigate LLM Model Chained Prompt Injection attacks, it’s crucial to implem
 ## Conclusion
 
 In conclusion, the scenarios of LLM Model Poisoning with Code Injection and LLM Model Chained Prompt Injection underscore the critical importance of securing large language models (LLMs) against various forms of attacks. These attacks exploit vulnerabilities in the LLM’s training data and prompt processing mechanisms to inject and execute malicious code, leading to potentially harmful consequences.
+
+<div align="center">
+
+<img width="800" height="648" alt="image" src="https://github.com/user-attachments/assets/9c3831ae-b83a-4fb9-8a0d-698d986d1b7e" />
+</div>
