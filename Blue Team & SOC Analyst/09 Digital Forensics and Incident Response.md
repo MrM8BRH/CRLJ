@@ -191,10 +191,13 @@ Ransomware Decryption Tool
 
 ![Hierarchy-DFIR](https://github.com/MrM8BRH/MrM8BRH/assets/34133187/2d11688b-ddcb-41a3-9308-c5880e8ab385)
 
+<img width="800" height="533" alt="image" src="https://github.com/user-attachments/assets/fd4b5a44-8726-4eae-8231-d55c04496ed7" />
 <img width="1024" height="1536" alt="image" src="https://github.com/user-attachments/assets/effbae55-2962-4561-86a7-7daee9f4fb84" />
 <img width="800" height="640" alt="image" src="https://github.com/user-attachments/assets/6b5ee06d-4cd3-426c-a41e-f6dde4887301" />
+<img width="800" height="533" alt="image" src="https://github.com/user-attachments/assets/3d0ca3e6-8702-4720-a772-3bfec38834cf" />
 <img width="800" height="533" alt="image" src="https://github.com/user-attachments/assets/72b2dcf6-25b2-49b3-becc-7181b9577456" />
 <img width="800" height="999" alt="image" src="https://github.com/user-attachments/assets/4235e13d-64fb-4162-9b76-69b30d431f16" />
+<img width="800" height="953" alt="image" src="https://github.com/user-attachments/assets/c8c0db05-8ff7-4aa4-8602-ea5a6d9ff0f2" />
 
 
 ![IR](https://github.com/MrM8BRH/MrM8BRH/assets/34133187/29944e79-f81f-40d7-884b-6120b0fe49a7)
