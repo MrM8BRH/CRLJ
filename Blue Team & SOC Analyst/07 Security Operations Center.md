@@ -73,6 +73,7 @@ Resources and Tools
 
 <div align="center">
 
+<img width="800" height="436" alt="image" src="https://github.com/user-attachments/assets/addc3535-26b5-40e5-8bc7-46db8a20d2fa" />
 <img width="1122" height="1402" alt="image" src="https://github.com/user-attachments/assets/79936214-dd4e-4804-ae68-43be7e5ca954" />
 <img width="1024" height="1536" alt="image" src="https://github.com/user-attachments/assets/35cd848d-efba-486b-80e0-c0254f51206a" />
 
