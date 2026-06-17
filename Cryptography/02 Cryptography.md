@@ -91,3 +91,9 @@ Resources and Tools
 - [AppEncryptor](https://github.com/AlanQuatermain/appencryptor)
 - [Class-Dump](http://stevenygard.com/projects/class-dump/)
 - [Readmem](https://github.com/gdbinit/readmem)
+
+<div align="center">
+
+<img width="800" height="533" alt="image" src="https://github.com/user-attachments/assets/15dd129c-2eba-4892-8700-b2c960d42e34" />
+</div>
+
