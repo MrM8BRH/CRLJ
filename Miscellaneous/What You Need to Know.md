@@ -30,6 +30,3 @@ Navigating a Cybersecurity Career: What You Need to Know
 
 ### Q3: Overcoming Limited Resources
 *The absence of a computer or possessing a poorly configured one should not be viewed as a hindrance to progress. Resource constraints should not serve as an excuse. One can make strides by utilizing available resources, even if it means starting on a mobile device. The key is to initiate the learning process and actively work towards personal development.*
-
-Further information on questions and answers, specifically from the perspective of the Islamic religion, can be found at the bottom of the table of contents.
-
