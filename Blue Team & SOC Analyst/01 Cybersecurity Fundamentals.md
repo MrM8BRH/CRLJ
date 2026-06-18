@@ -157,6 +157,7 @@ Threat Modeling Methods:
 <div align="center">
 
 <img width="800" height="800" alt="image" src="https://github.com/user-attachments/assets/1893a3e6-02b9-47d4-b4b7-6b34e5eb3e94" />
+<img width="1024" height="1535" alt="image" src="https://github.com/user-attachments/assets/5732ea4e-27f3-4647-8357-c766f09f7c32" />
 
 ![image](https://github.com/user-attachments/assets/a509c7a2-ee6c-408f-b487-773298d027cd)
 ![image](https://github.com/user-attachments/assets/9dcf458b-8b73-43f8-af0e-023d2d4cf308)
