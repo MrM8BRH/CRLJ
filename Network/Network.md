@@ -41,6 +41,7 @@ Tools and Resources
 
 <div align="center">
 
+<img width="800" height="1132" alt="image" src="https://github.com/user-attachments/assets/4a6666ce-9a39-4a12-a9ee-66cb024d8311" />
 <img width="1024" height="1536" alt="image" src="https://github.com/user-attachments/assets/1db56655-936a-46d1-b0bf-930ba0cdf39d" />
 <img width="800" height="492" alt="image" src="https://github.com/user-attachments/assets/6d938570-1c30-4825-9639-f19cc05b24c9" />
 <img src="https://github.com/MrM8BRH/MrM8BRH/assets/34133187/5708b5e6-d65f-4531-ad84-8d0cbcdc80e6">
@@ -52,5 +53,9 @@ Tools and Resources
 <img width="480" height="720" alt="image" src="https://github.com/user-attachments/assets/d3b16e56-f95f-483a-a8b6-9ccc43e13bd0" />
 <img width="480" height="720" alt="image" src="https://github.com/user-attachments/assets/b9ab05c6-c227-4ea0-b1f9-872080b8ff56" />
 <img width="480" height="720" alt="image" src="https://github.com/user-attachments/assets/13169c20-8412-4095-b715-9a32f012e690" />
-  
+<img width="800" height="858" alt="image" src="https://github.com/user-attachments/assets/061e0126-57ab-46ad-921f-e17f06c1496b" />
+<img width="1149" height="1369" alt="image" src="https://github.com/user-attachments/assets/f751afcd-6ddb-4d67-a61e-506404af9e2a" />
+<img width="1024" height="1536" alt="image" src="https://github.com/user-attachments/assets/ffe0da4d-4c6d-4900-9ccf-1118da84f1c5" />
+<img width="1024" height="1536" alt="image" src="https://github.com/user-attachments/assets/7936fe31-225c-4eef-b96c-8a5198ac3fe5" />
+
 </div>
