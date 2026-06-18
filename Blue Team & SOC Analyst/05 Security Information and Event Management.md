@@ -84,7 +84,10 @@ Logging Services and Log File Formats
 <div align="center">
    
 ![SIEM1](https://github.com/user-attachments/assets/448dbadb-72d9-4a27-9829-29a4a5a6c245)
+
+<img width="714" height="1067" alt="image" src="https://github.com/user-attachments/assets/9096c58a-9791-4483-81df-9ea84ddba55a" />
+<img width="720" height="1069" alt="image" src="https://github.com/user-attachments/assets/32b6372d-89df-4994-b7e5-0028feec15da" />
+
 ![ubea](https://github.com/MrM8BRH/MrM8BRH/assets/34133187/e532da33-3179-460c-9324-6be2c1ea9b9b)
-![SIEM2](https://github.com/MrM8BRH/MrM8BRH/assets/34133187/95e37454-618e-4c46-ae00-b444dcb214e4)
 
 </div>
