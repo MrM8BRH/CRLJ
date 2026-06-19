@@ -577,5 +577,6 @@ In conclusion, the scenarios of LLM Model Poisoning with Code Injection and LLM 
 
 <div align="center">
 
+<img width="1122" height="1402" alt="image" src="https://github.com/user-attachments/assets/c7278fe0-498c-4fe3-a0a3-42bb78e9fbdd" />
 <img width="800" height="648" alt="image" src="https://github.com/user-attachments/assets/9c3831ae-b83a-4fb9-8a0d-698d986d1b7e" />
 </div>
