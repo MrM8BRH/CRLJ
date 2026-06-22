@@ -36,19 +36,16 @@ For beginners in cybersecurity, it's important to cover these areas:
 
 [Office Ergonomics](https://ergonomictrends.com/office-ergonomics/)
 
-### [DeepWiki](https://deepwiki.com/MrM8BRH/CRLJ)
-
 Table of Contents
 -----------------
-1. 🗒️ [What You Need to Know](https://github.com/MrM8BRH/CRLJ/blob/main/Miscellaneous/What%20You%20Need%20to%20Know.md)
-2. 🗒️ [Cybersecurity](https://github.com/MrM8BRH/CRLJ/blob/main/Miscellaneous/Cybersecurity.md)
-3. 🗒️ [Cybersecurity Learning Roadmap](https://github.com/MrM8BRH/CRLJ/blob/main/Miscellaneous/Cybersecurity%20Learning%20Roadmap.md)
-4. 🗒️ [Books](https://github.com/MrM8BRH/CRLJ/blob/main/Miscellaneous/Books.md)
-5. 📁 [Blue Team & SOC Analyst](https://github.com/MrM8BRH/CRLJ/tree/main/Blue%20Team%20%26%20SOC%20Analyst)
-6. 📁 [Red Team & Penetration Testing](https://github.com/MrM8BRH/CRLJ/tree/main/Red%20Team%20%26%20Penetration%20Testing)
-7. 📁 [RE - MA - ED](https://github.com/MrM8BRH/CRLJ/tree/main/RE%20-%20MA%20-%20ED)
-8. 📁 [Cryptography](https://github.com/MrM8BRH/CRLJ/tree/main/Cryptography)
-9. 📁 [Mobile](https://github.com/MrM8BRH/CRLJ/tree/main/Mobile)
-10. 📁 [Network](https://github.com/MrM8BRH/CRLJ/tree/main/Network)
-11. 📁 [GRC](https://github.com/MrM8BRH/CRLJ/tree/main/GRC)
-12. 📁 [Miscellaneous](https://github.com/MrM8BRH/CRLJ/tree/main/Miscellaneous)
+1. 🗒️ [Cybersecurity](https://github.com/MrM8BRH/CRLJ/blob/main/Miscellaneous/Cybersecurity.md)
+2. 🗒️ [Cybersecurity Learning Roadmap](https://github.com/MrM8BRH/CRLJ/blob/main/Miscellaneous/Cybersecurity%20Learning%20Roadmap.md)
+3. 🗒️ [Books](https://github.com/MrM8BRH/CRLJ/blob/main/Miscellaneous/Books.md)
+4. 📁 [Blue Team & SOC Analyst](https://github.com/MrM8BRH/CRLJ/tree/main/Blue%20Team%20%26%20SOC%20Analyst)
+5. 📁 [Red Team & Penetration Testing](https://github.com/MrM8BRH/CRLJ/tree/main/Red%20Team%20%26%20Penetration%20Testing)
+6. 📁 [RE - MA - ED](https://github.com/MrM8BRH/CRLJ/tree/main/RE%20-%20MA%20-%20ED)
+7. 📁 [Cryptography](https://github.com/MrM8BRH/CRLJ/tree/main/Cryptography)
+8. 📁 [Mobile](https://github.com/MrM8BRH/CRLJ/tree/main/Mobile)
+9. 📁 [Network](https://github.com/MrM8BRH/CRLJ/tree/main/Network)
+10. 📁 [GRC](https://github.com/MrM8BRH/CRLJ/tree/main/GRC)
+11. 📁 [Miscellaneous](https://github.com/MrM8BRH/CRLJ/tree/main/Miscellaneous)
