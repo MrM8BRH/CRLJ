@@ -52,4 +52,3 @@ Table of Contents
 10. 📁 [Network](https://github.com/MrM8BRH/CRLJ/tree/main/Network)
 11. 📁 [GRC](https://github.com/MrM8BRH/CRLJ/tree/main/GRC)
 12. 📁 [Miscellaneous](https://github.com/MrM8BRH/CRLJ/tree/main/Miscellaneous)
-13. 🗒️ [Islam and Cybersecurity](https://github.com/MrM8BRH/CRLJ/blob/main/Miscellaneous/Islam%20and%20Cybersecurity.md)
