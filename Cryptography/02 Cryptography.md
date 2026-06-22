@@ -51,6 +51,9 @@ These terms should not be confused with encryption and decryption, which focus o
 Resources and Tools
 -------------------
 - [Cryptography 101 with Alfred Menezes](https://cryptography101.ca/)
+- [Bill Buchanan - The 100 Basic Rules of Cryptography (and Secure Programming)](https://podcasts.apple.com/gb/podcast/bill-buchanan-the-100-basic-rules-of-cryptography/id1617044319?i=1000624041834)
+- [Awesome Cryptography](https://github.com/sobolevn/awesome-cryptography)
+- [crypto-scanner](https://pypi.org/project/crypto-scanner/)
 - [Ciphey](https://github.com/Ciphey/Ciphey)
 - [CyberChef](https://cyberchef.io/)
 - [John the Ripper](https://github.com/openwall/john)
