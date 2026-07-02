@@ -38,7 +38,10 @@ For beginners in cybersecurity, it's important to cover these areas:
 
 Table of Contents
 -----------------
-⋆⋅𖤓⋅⋆ -🗒️ [Cybersecurity](https://github.com/MrM8BRH/CRLJ/blob/main/Cybersecurity%20Learning/Intro/Cybersecurity.md)
-⋆⋅𖤓⋅⋆ -🗒️ [Cybersecurity Fundamentals](https://github.com/MrM8BRH/CRLJ/blob/main/Cybersecurity%20Learning/Intro/Cybersecurity%20Fundamentals.md)
-⋆⋅𖤓⋅⋆ -🗒️ [Books](https://github.com/MrM8BRH/CRLJ/blob/main/Cybersecurity%20Learning/Intro/Books.md)
-⋆⋅𖤓⋅⋆ -📁 [Cybersecurity Learning](https://github.com/MrM8BRH/CRLJ/blob/main/Cybersecurity%20Learning/)
+⋆⋅𖤓⋅⋆ 🗒️ [Cybersecurity](https://github.com/MrM8BRH/CRLJ/blob/main/Cybersecurity%20Learning/Intro/Cybersecurity.md)
+
+⋆⋅𖤓⋅⋆ 🗒️ [Cybersecurity Fundamentals](https://github.com/MrM8BRH/CRLJ/blob/main/Cybersecurity%20Learning/Intro/Cybersecurity%20Fundamentals.md)
+
+⋆⋅𖤓⋅⋆ 🗒️ [Books](https://github.com/MrM8BRH/CRLJ/blob/main/Cybersecurity%20Learning/Intro/Books.md)
+
+⋆⋅𖤓⋅⋆ 📁 [Cybersecurity Learning](https://github.com/MrM8BRH/CRLJ/blob/main/Cybersecurity%20Learning/)
