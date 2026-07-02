@@ -38,13 +38,7 @@ For beginners in cybersecurity, it's important to cover these areas:
 
 Table of Contents
 -----------------
-1. 🗒️ [Cybersecurity](https://github.com/MrM8BRH/CRLJ/blob/main/Miscellaneous/Cybersecurity.md)
-2. 🗒️ [Books](https://github.com/MrM8BRH/CRLJ/blob/main/Miscellaneous/Books.md)
-3. 📁 [Blue Team & SOC Analyst](https://github.com/MrM8BRH/CRLJ/tree/main/Blue%20Team%20%26%20SOC%20Analyst)
-4. 📁 [Red Team & Penetration Testing](https://github.com/MrM8BRH/CRLJ/tree/main/Red%20Team%20%26%20Penetration%20Testing)
-5. 📁 [RE - MA - ED](https://github.com/MrM8BRH/CRLJ/tree/main/RE%20-%20MA%20-%20ED)
-6. 📁 [Cryptography](https://github.com/MrM8BRH/CRLJ/tree/main/Cryptography)
-7. 📁 [Mobile](https://github.com/MrM8BRH/CRLJ/tree/main/Mobile)
-8. 📁 [Network](https://github.com/MrM8BRH/CRLJ/tree/main/Network)
-9. 📁 [GRC](https://github.com/MrM8BRH/CRLJ/tree/main/GRC)
-10. 📁 [Miscellaneous](https://github.com/MrM8BRH/CRLJ/tree/main/Miscellaneous)
+⋆⋅𖤓⋅⋆ -🗒️ [Cybersecurity](https://github.com/MrM8BRH/CRLJ/blob/main/Cybersecurity%20Learning/Intro/Cybersecurity.md)
+⋆⋅𖤓⋅⋆ -🗒️ [Cybersecurity Fundamentals](https://github.com/MrM8BRH/CRLJ/blob/main/Cybersecurity%20Learning/Intro/Cybersecurity%20Fundamentals.md)
+⋆⋅𖤓⋅⋆ -🗒️ [Books](https://github.com/MrM8BRH/CRLJ/blob/main/Cybersecurity%20Learning/Intro/Books.md)
+⋆⋅𖤓⋅⋆ -📁 [Cybersecurity Learning](https://github.com/MrM8BRH/CRLJ/blob/main/Cybersecurity%20Learning/)
