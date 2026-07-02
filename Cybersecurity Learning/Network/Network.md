@@ -1,0 +1,61 @@
+Network Security
+----------------
+Network security consists of the policies, processes and practices adopted to prevent, detect and monitor unauthorized access, misuse, modification, or denial of a computer network and network-accessible resources. Network security involves the authorization of access to data in a network, which is controlled by the network administrator. Users choose or are assigned an ID and password or other authenticating information that allows them access to information and programs within their authority. Network security covers a variety of computer networks, both public and private, that are used in everyday jobs: conducting transactions and communications among businesses, government agencies and individuals. Networks can be private, such as within a company, and others which might be open to public access. Network security is involved in organizations, enterprises, and other types of institutions.
+
+Network Penetration Testing
+---------------------------
+Network penetration testing simulates the processes threat actors can use to attack a business network, business website, network applications, and connected devices. The goal is to uncover security issues before threat actors find and exploit them.
+
+Penetration tests can help organizations identify security gaps and determine which measures can prevent threat actors from obtaining unauthorized access to networks and attacking the organization. The results of a penetration test provide insights into the effectiveness of the organization’s existing security defenses and their resilience to full-scale cyber attacks.
+
+Tools and Resources
+-------------------
+- [Network Pentesting Mindmap](https://github.com/wearecaster/NetworkNightmare/blob/main/NetworkNightmare_by_Caster.png)
+- [Nessus](https://www.tenable.com/products/nessus)
+- [RustScan](https://github.com/RustScan/RustScan)
+- [Nmap](https://nmap.org/)
+- [Nmap Cheat Sheet](https://www.stationx.net/nmap-cheat-sheet/)
+- [Naabu](https://github.com/projectdiscovery/naabu)
+- [Masscan](https://github.com/robertdavidgraham/masscan)
+- [Metasploit](https://www.metasploit.com/)
+- [Gotator](https://github.com/Josue87/gotator)
+- [Dnsx](https://github.com/projectdiscovery/dnsx)
+- [Wireshark](https://www.wireshark.org/)
+- [Tcpdump](https://www.tcpdump.org/)
+- [Scapy](https://scapy.net/)
+- [Netcat](https://nmap.org/ncat/)
+- [NetworkMiner](https://www.netresec.com/?page=NetworkMiner)
+- [Brim](https://www.brimdata.io/)
+- [PAINT](https://www.digitaloperatives.com/project/paint/)
+- [WireBug](https://github.com/SySS-Research/WireBug)
+- [MITM Cheatsheet](https://github.com/frostbits-security/MITM-cheatsheet)
+- [Malcolm - Network Traffic Analysis Tool](https://github.com/cisagov/Malcolm)
+- [Apackets](https://apackets.com/)
+- [Aircrack-ng](https://www.aircrack-ng.org/)
+- [Wi-Fi Exploitation Framework (WEF)](https://github.com/D3Ext/WEF)
+- [Freeway](https://github.com/FLOCK4H/Freeway)
+- [Wi-Fi Attacks](https://techgenix.com/wi-fi-attacks/)
+- [Wi-Fi Guide](https://ricardojoserf.github.io/wifiguide/)
+- [VIPROY](https://github.com/fozavci/viproy-voipkit)
+
+
+<div align="center">
+
+<img width="800" height="1132" alt="image" src="https://github.com/user-attachments/assets/4a6666ce-9a39-4a12-a9ee-66cb024d8311" />
+<img width="1024" height="1536" alt="image" src="https://github.com/user-attachments/assets/1db56655-936a-46d1-b0bf-930ba0cdf39d" />
+<img width="800" height="492" alt="image" src="https://github.com/user-attachments/assets/6d938570-1c30-4825-9639-f19cc05b24c9" />
+<img src="https://github.com/MrM8BRH/MrM8BRH/assets/34133187/5708b5e6-d65f-4531-ad84-8d0cbcdc80e6">
+<img src="https://github.com/MrM8BRH/MrM8BRH/assets/34133187/22d7c4ce-cc58-4f84-b229-7fdbf945ca73" width="850px" hight="250px">
+<img src="https://github.com/MrM8BRH/MrM8BRH/assets/34133187/13ec9bb6-f215-4a8d-baaf-44c156c01195">
+<img src="https://github.com/MrM8BRH/MrM8BRH/assets/34133187/700d2e3d-359b-47f6-ac72-cbc62714cf92">
+<img src="https://github.com/MrM8BRH/MrM8BRH/assets/34133187/af0a8ade-7e63-478d-aa4d-6c1c92ebeec5">
+<img width="800" height="1200" alt="image" src="https://github.com/user-attachments/assets/cb6857a9-33b9-43aa-8a2a-cb6aa07245ac" />
+<img width="480" height="720" alt="image" src="https://github.com/user-attachments/assets/d3b16e56-f95f-483a-a8b6-9ccc43e13bd0" />
+<img width="480" height="720" alt="image" src="https://github.com/user-attachments/assets/b9ab05c6-c227-4ea0-b1f9-872080b8ff56" />
+<img width="480" height="720" alt="image" src="https://github.com/user-attachments/assets/13169c20-8412-4095-b715-9a32f012e690" />
+<img width="800" height="858" alt="image" src="https://github.com/user-attachments/assets/061e0126-57ab-46ad-921f-e17f06c1496b" />
+<img width="1149" height="1369" alt="image" src="https://github.com/user-attachments/assets/f751afcd-6ddb-4d67-a61e-506404af9e2a" />
+<img width="1024" height="1536" alt="image" src="https://github.com/user-attachments/assets/ffe0da4d-4c6d-4900-9ccf-1118da84f1c5" />
+<img width="1024" height="1536" alt="image" src="https://github.com/user-attachments/assets/7936fe31-225c-4eef-b96c-8a5198ac3fe5" />
+
+</div>
