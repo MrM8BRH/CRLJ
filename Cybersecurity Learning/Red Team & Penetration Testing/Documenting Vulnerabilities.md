@@ -38,3 +38,15 @@ A Penetration Testing Report is a formal document provided to clients after cond
 - **Appendices** (if applicable):
     - Glossary of terms.
     - Detailed technical data or supplementary information.
+
+### Resources
+- [Awesome Annual Security Reports](https://github.com/jacobdjwilson/awesome-annual-security-reports/)
+- [Penetration Testing Report Templates](https://www.pentestreports.com/templates)
+- [PwnDoc](https://github.com/pwndoc/pwndoc)
+- [WriteHat](https://github.com/blacklanternsecurity/writehat)
+- [VULNRΞPO](https://vulnrepo.com/home)
+- [Ghostwriter](https://github.com/GhostManager/Ghostwriter)
+- [Public penetration testing reports](https://github.com/juliocesarfort/public-pentesting-reports)
+- [Web Pentest Reports](https://gitlab.com/xanhacks/web-pentest-reports)
+- [OSCP-Exam-Report-Template-Markdown](https://github.com/noraj/OSCP-Exam-Report-Template-Markdown)
+- [Faction Security](https://www.factionsecurity.com/)
