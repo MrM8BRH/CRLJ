@@ -92,6 +92,7 @@ After the completion of the investigation, maintain detailed documentation of th
 
 Incident Response Resources and Playbooks
 -----------------------------------------
+- [Incident Response Methodologies - IRM](https://github.com/certsocietegenerale/IRM)
 - [Windows Incident Response](https://windowsir.blogspot.com/)
 - [Incident Response Playbooks](https://www.incidentresponse.org/playbooks/)
 - [SANS Incident Handling Policy Templates](https://www.sans.org/information-security-policy/?category=incident-handling)
@@ -106,12 +107,21 @@ Incident Response Resources and Playbooks
 - [Incident Response Linux](https://github.com/vm32/Linux-Incident-Response)
 - [ID Ransomware](https://id-ransomware.malwarehunterteam.com/)
 - [No more Ransom](https://www.nomoreransom.org/en/index.html)
+- [Windows Forensics Part 1](https://brainy-lift-ce7.notion.site/Windows-Forensics-Part-1-27f15bc3c93b8054b5e7e9a2ec2df1df)
+
+Incident Response Platforms
+---------------------------
+- [dfir-lab](https://platform.dfir-lab.ch/)
+- [IRIS](https://github.com/dfir-iris/iris-web)
+- [Kanvas](https://github.com/WithSecureLabs/Kanvas)
+- [TheHive](https://github.com/TheHive-Project/TheHive)
 
 Cheat Sheets, OSs and Tools
-----
+---------------------------
+- [Android Forensics References](https://github.com/RealityNet/Android-Forensics-References/)
 - [DFIR Cheat Sheet](https://dfircheatsheet.github.io/)
 - [Introduction to DFIR](https://a1l4m.medium.com/introduction-to-dfir-290d77c60965)
-- [Forensics Start Page](https://start.me/p/q6mw4Q/forensics)
+- [Learn DFIR From Scratch](https://nx4u.github.io/DFIR-guide/)
 - [Free hands-on digital forensics labs for students and faculty](https://github.com/frankwxu/digital-forensics-lab)
 - [Digital Forensics Script for Linux](https://github.com/vm32/Digital-Forensics-Script-for-Linux)
 - [FREE DFIR First Responder Bootcamp](https://www.poppopret.training/free-dfir-first-responder-bootcamp)
@@ -140,7 +150,8 @@ Cheat Sheets, OSs and Tools
 - [PWF](https://github.com/bluecapesecurity/PWF)
 - [Sn1per](https://github.com/1N3/Sn1per)
 - [Malware](https://github.com/rivitna/Malware)
-- [Forensics Start Page](https://start.me/p/q6mw4Q/forensics)
+- [Forensics Start Page - 1](https://start.me/p/q6mw4Q/forensics)
+- [Forensics Start Page - 2](https://start.me/p/m60j2v/digital-forensics)
 - [Velociraptor](https://github.com/Velocidex/velociraptor)
 - [Autopsy](https://www.sleuthkit.org/autopsy/)
 - [Encrypted Disk Detector](https://www.magnetforensics.com/resources/encrypted-disk-detector/)
