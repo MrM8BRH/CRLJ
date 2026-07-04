@@ -1,3 +1,5 @@
+[Handbook of Applied Cryptography](https://cacr.uwaterloo.ca/hac/)
+
 ### Symmetric Encryption
 Symmetric encryption uses the same key for both encryption and decryption of data. Popular algorithms include **AES (Advanced Encryption Standard)** and **DES (Data Encryption Standard)**. It is fast and efficient, making it ideal for encrypting large amounts of data, such as file storage or VPN traffic. However, the key exchange process can present security vulnerabilities because both parties must securely share the key. As a cybersecurity engineer, symmetric encryption is commonly used to protect data at rest (e.g., encrypting databases) or data in transit (e.g., securing connections using HTTPS).
 ### Asymmetric Encryption
