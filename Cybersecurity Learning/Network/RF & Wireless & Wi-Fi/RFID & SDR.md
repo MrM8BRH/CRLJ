@@ -1,13 +1,24 @@
 Radio-Frequency Identification (RFID) & Software Defined Radio (SDR)
 --------------------------------------------------------------------
 #### Wiki/Articles:
+- [Offensive Wireless](https://www.offensive-wireless.com/)
 - [What is RFID?](https://us.norton.com/blog/id-theft/what-is-rfid)
+- [Radio Frequency 101: Can You Really Hack a Radio Signal?](https://sei.cmu.edu/blog/radio-frequency-101-can-you-really-hack-a-radio-signal/)
+- [Radio Frequency (RF) Hacking Techniques in Cybersecurity](https://demuth.github.io/cyberphysics/15-mod4-radiofrequency-hacking-techniques/index.html)
+- [Software Defined Radio (SDR) for Hackers: Radio Frequency Attack Methods](https://hackers-arise.com/software-defined-radio-sdr-for-hackers-radio-frequency-attack-methods/)
 - [Radio Frequency (RF) Hacking](https://ultraarmor.com/learn/radio-frequency-hacking/)
 - [SDR and Its Role in Cybersecurity](https://www.incibe.es/en/incibe-cert/blog/sdr-and-its-role-cybersecurity)
 - [Automatic Dependent Surveillance–Broadcast](https://en.wikipedia.org/wiki/Automatic_dependent_surveillance-broadcast)
 - [ISM Radio Band](https://en.wikipedia.org/wiki/ISM_radio_band)
+- [Radio Basics for Hackers, Part 01: Electromagnetic Radiation, Frequency and Wavelength](https://hackers-arise.com/radio-basics-for-hackers-part-1-electromagnetic-radiation-frequency-and-wavelength/)
+- [Radio Basics for Hackers, Part 02: Amplitude, Modulation, decibels and gain](https://hackers-arise.com/radio-basics-for-hackers-part-2-amplitude-modulation-decibels-and-gain/)
+- [Radio Basics for Hackers, Part 03: Sampling](https://hackers-arise.com/radio-basics-for-hackers-part-3-sampling/)
+- [Radio Basics for Hackers, Part 04: How Antennas Work and Which are Most Effective](https://hackers-arise.com/radio-basics-for-hackers-part-4-how-antennas-work-and-which-are-most-effective/)
+
 
 #### Products / Hardware:
+- [FlatSat](https://github.com/Pwnsat/FlatSat)
+- [FlatSat 1](https://electroniccats.com/store/flatsat1/)
 - [hackerwarehouse](https://hackerwarehouse.com/)
 - [hak5](https://shop.hak5.org/)
 - [lab401](https://lab401.com/collections/hardware)
@@ -20,6 +31,7 @@ Radio-Frequency Identification (RFID) & Software Defined Radio (SDR)
 - [NESDR SMArT XDR](https://www.nooelec.com/store/sdr/sdr-receivers/nesdr-smart-x.html)
 
 #### Additional Resources:
+- [AeroSpace-Cybersecurity](https://github.com/r0r0x-xx/AeroSpace-Cybersecurity)
 - [SDR for Hackers](https://www.hackers-arise.com/sdr-for-hackers)
 - [RobVK8FOES YouTube Videos](https://www.youtube.com/@RobVK8FOES/videos)
 - [Mobile Hacker](https://www.mobile-hacker.com/)
