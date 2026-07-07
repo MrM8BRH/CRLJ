@@ -1,2 +1,0 @@
-# Cyber Threat Intelligence
-

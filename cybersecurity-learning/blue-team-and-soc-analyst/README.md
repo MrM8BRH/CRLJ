@@ -1,2 +1,0 @@
-# Blue Team & SOC Analyst
-

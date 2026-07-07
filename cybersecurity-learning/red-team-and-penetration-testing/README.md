@@ -1,2 +1,0 @@
-# Red Team & Penetration Testing
-
