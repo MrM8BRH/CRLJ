@@ -20,15 +20,13 @@ By: @MrM8BRH
 - C++ || JAVA
   - Basics
   - Object-oriented programming (OOP)
-  - Data Structure
-    (Optional)
+  - Data Structure (Optional)
 - Basics of
   - Python
   - PHP & API
   - Oracle || MySQL
   - HTML, CSS, JavaScript
-  - Intel x86 Assembly
-    (Optional)
+  - Intel x86 Assembly (Optional)
 
 ## 4. Operating Systems
 - Book: Operating System Concepts / Ninth Edition
@@ -40,18 +38,17 @@ By: @MrM8BRH
 
 ## 5. Cryptography
 - Topics:
-  Symmetric Encryption
-  Asymmetric Encryption
-  Hashing
-  Obfuscation
-  Encoding
-  Steganography
-  Digital Signatures
-  Digital Certificates
-  One Time Password (OTP)
-  Tokenization vs. Encryption
-  Blockchain
-  (Optional)
+  - Symmetric Encryption
+  - Asymmetric Encryption
+  - Hashing
+  - Obfuscation
+  - Encoding
+  - Steganography
+  - Digital Signatures
+  - Digital Certificates
+  - One Time Password (OTP)
+  - Tokenization vs. Encryption
+  - Blockchain (Optional)
 - Book: Cryptography and Network Security: Principles and Practice / Edition 7
 
 ## 6. Cybersecurity Fundamentals
