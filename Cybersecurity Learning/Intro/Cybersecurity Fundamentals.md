@@ -26,14 +26,14 @@ Foundations of Cybersecurity
 
 * * *
 
-**Classification Roles**:
+### Classification Roles
 1.  **Owner**: Responsible for determining the value and importance of the asset.
 2.  **Custodian**: In charge of safeguarding and maintaining the asset.
 3.  **User**: Interacts with and utilizes the asset.
 
 * * *
 
-**Classification Criteria**:
+### Classification Criteria
 1.  **Value**: Assessing the worth or significance of the asset.
 2.  **Age**: Determining how long the asset has been in use.
 3.  **Replacement Cost**: Evaluating the expense of acquiring a new asset.
@@ -41,7 +41,7 @@ Foundations of Cybersecurity
 
 * * *
 
-**Classifying Vulnerabilities**:
+### Classifying Vulnerabilities
 1.  **Policy Flaws**: Weaknesses in security policies or procedures.
 2.  **Design Errors**: Mistakes in the system's architectural plan.
 3.  **Protocol Weaknesses**: Vulnerabilities in communication protocols.
@@ -55,15 +55,14 @@ Foundations of Cybersecurity
 
 * * *
 
-**Classifying Countermeasures**:
+### Classifying Countermeasures
 1.  **Administrative**: Policies, procedures, and training to manage security.
 2.  **Physical**: Physical safeguards like locks, fences, and surveillance.
 3.  **Logical**: Digital measures such as firewalls, encryption, and access controls.
 
 * * *
 
-**CIA Triad**
-
+### CIA Triad
 *   **Confidentiality** refers to the protection of sensitive information from unauthorized access, disclosure, or use. This can be achieved through measures such as encryption, access control, and data classification.
     **– \[Encryption | Least Privilege | Access Control\]**
 *   **Integrity** refers to the protection of information from unauthorized modification or deletion. This can be achieved through measures such as data validation, version control, and auditing.
@@ -73,8 +72,8 @@ Foundations of Cybersecurity
 
 * * *
 
+### AAA
 **AAA**, which stands for Authentication, Authorization, and Accounting, is a fundamental concept in information security and network management. It is often compared to the CIA triad, which focuses on protecting information, while AAA is more concerned with controlling access to resources and tracking user activities. Let's break down AAA in a similar format to the CIA Triad:
-
 *   **Authentication**: Authentication is the process of verifying the identity of a user, system, or entity. It ensures that the person or system trying to access a resource is who they claim to be. This is typically achieved through mechanisms like passwords, biometrics, smart cards, or other authentication methods.
     **– \[Passwords | Biometrics | Two-factor Authentication\]**
 *   **Authorization**: Authorization follows authentication and determines what actions or resources a user or system is allowed to access. It establishes the level of access privileges granted to an authenticated entity. This is often managed through access control lists (ACLs) or role-based access control (RBAC) policies.
@@ -84,8 +83,7 @@ Foundations of Cybersecurity
 
 * * *
 
-**Supply Chain Risk Management:**
-
+### Supply Chain Risk Management
 *   **Prevention**: Implementing measures to prevent risks from occurring.
 *   **Preparedness**: Preparing for potential risks by developing contingency plans.
 *   **Response**: Taking immediate action when a risk materializes.
@@ -93,7 +91,7 @@ Foundations of Cybersecurity
 
 * * *
 
-**Risk Management Decisions:**
+### Risk Management Decisions
 *   **Accept**: Acknowledge and document the risk as within tolerance.
 *   **Mitigate**: Apply additional controls or improve existing ones
 *   **Transfer**: Shift the risk to a third party (e.g., insurance).
@@ -102,7 +100,19 @@ Foundations of Cybersecurity
 
 * * *
 
-Threat Modeling Methods:
+### Security Standards and Vulnerability References
+- **RFC — Request for Comments:** Technical documents that define Internet protocols, standards, procedures, and best practices. Examples include RFC 791 for IPv4, RFC 8200 for IPv6, and RFC 8446 for TLS 1.3.
+- **CWE — Common Weakness Enumeration:** A classification system for common software and hardware weaknesses that may lead to vulnerabilities. Examples include CWE-79 for Cross-Site Scripting and CWE-89 for SQL Injection.
+- **CVE — Common Vulnerabilities and Exposures:** A standardized identification system for publicly disclosed security vulnerabilities. Each vulnerability receives a unique identifier, such as `CVE-2021-44228`.
+
+**Relationship**
+- An RFC describes how a protocol or technology should operate.
+- A CWE describes a general category of security weakness.
+- A CVE identifies a specific vulnerability in a particular product or im
+
+* * *
+
+### Threat Modeling Methods
 1. STRIDE
 2. PASTA
 3. DREAD
@@ -115,32 +125,308 @@ Threat Modeling Methods:
 10. CVSS
 11. MITRE ATT&CK
 12. Cyber Kill Chain
-13. NIST SP 800-30
+13. OWASP
+14. NIST SP 800-30
+
+* * * 
+
+### Essentials of Cybersecurity Domains
+
+**⌗ Network and Infrastructure Security ⌗**
+
+Protects enterprise networks, communications, and infrastructure from unauthorized access, disruption, lateral movement, and denial-of-service attacks.
+
+Key capabilities include:
+
+* Firewalls and secure web gateways
+* Network detection and response
+* Intrusion detection and prevention systems
+* Network segmentation and microsegmentation
+* Virtual private networks and secure access service edge
+* Domain Name System security
+* Distributed denial-of-service protection
+* Network access control
+* Secure wireless, 5G, and remote-access infrastructure
+
+Modern network security increasingly follows zero-trust principles, where access is not automatically trusted based on network location. Users, devices, workloads, and requests must be continuously verified.
+
+**⌗ Endpoint and System Security ⌗**
+
+Protects servers, workstations, mobile devices, virtual machines, containers, and other computing platforms from compromise, misuse, malware, and unauthorized access.
+
+Key capabilities include:
+
+* Secure system configuration and hardening
+* Patch and vulnerability management
+* Endpoint detection and response
+* Extended detection and response
+* Anti-malware controls
+* Host-based firewalls
+* Device encryption
+* Mobile device management
+* Privileged access controls
+* Secure boot and hardware-backed security
+* Asset inventory and configuration management
+
+The domain also includes platform security for cloud workloads, containers, orchestration platforms, and virtualized environments.
+
+**⌗ Identity and Access Security ⌗**
+
+Ensures that the correct users, devices, applications, and workloads receive appropriate access to resources.
+
+Key practices include:
+
+* Identity and access management
+* Multi-factor authentication
+* Single sign-on and federation
+* Role- and attribute-based access control
+* Privileged access management
+* Identity governance and administration
+* Machine and workload identity management
+* Conditional and risk-based access
+* Passwordless authentication
+* Continuous authentication and authorization
+* Joiner, mover, and leaver lifecycle controls
+
+Identity is now a primary security control plane because users and services routinely access resources distributed across on-premises, cloud, software-as-a-service, and partner environments.
+
+**⌗ Application and API Security ⌗**
+
+Protects software, application programming interfaces, web applications, mobile applications, and software services throughout their lifecycle.
+
+Key practices include:
+
+* Secure software development lifecycle
+* Threat modeling
+* Secure coding
+* Input validation and output encoding
+* Authentication and authorization testing
+* API security
+* Software composition analysis
+* Static and dynamic application security testing
+* Interactive application security testing
+* Secrets management
+* Runtime application protection
+* Penetration testing
+* Vulnerability disclosure and remediation
+
+Security should be built into product design and development rather than added after deployment. This reflects the secure-by-design and secure-by-default approach promoted across the software industry.
+
+**⌗ Cloud and Cloud-Native Security ⌗**
+
+Protects infrastructure, platforms, applications, identities, and data hosted in public, private, hybrid, and multi-cloud environments.
+
+Key capabilities include:
+
+* Cloud security posture management
+* Cloud-native application protection platforms
+* Cloud workload protection
+* Cloud infrastructure entitlement management
+* Container and Kubernetes security
+* Infrastructure-as-code scanning
+* Secure cloud configuration
+* SaaS security posture management
+* Cloud logging and monitoring
+* Workload identity
+* Multi-cloud governance
+* Shared-responsibility management
+
+Cloud security must address configuration errors, excessive permissions, exposed services, insecure APIs, vulnerable workloads, and inconsistent controls across multiple providers.
+
+**⌗ Data Security and Privacy ⌗**
+
+Protects information throughout its lifecycle, including collection, creation, storage, processing, transmission, sharing, archival, and destruction.
+
+Key practices include:
+
+* Data discovery and classification
+* Encryption at rest and in transit
+* Key and certificate management
+* Data loss prevention
+* Database security
+* Tokenization and masking
+* Rights management
+* Secure backup and recovery
+* Data retention and deletion
+* Privacy engineering
+* Access monitoring
+* Data security posture management
+
+Organizations should also maintain cryptographic inventories and migration plans for post-quantum cryptography. NIST’s first finalized post-quantum standards are available for implementation, making cryptographic agility and transition planning an operational requirement.
+
+**⌗ Security Operations and Threat Management ⌗**
+
+Detects, investigates, contains, and responds to malicious activity across the organization.
+
+Key capabilities include:
+
+* Security information and event management
+* Security orchestration, automation, and response
+* Endpoint, network, identity, and cloud detection
+* Threat intelligence
+* Threat hunting
+* Detection engineering
+* Malware analysis
+* Digital forensics
+* User and entity behavior analytics
+* Continuous monitoring
+* Security operations center processes
+* Exposure and attack-surface management
+
+Effective security operations require high-quality telemetry, tested detection logic, documented escalation paths, and measurable response processes.
+
+**⌗ Incident Response, Resilience, and Recovery ⌗**
+
+Prepares the organization to manage security incidents, limit operational impact, restore services, and learn from events.
+
+Key practices include:
+
+* Incident response planning
+* Defined roles and escalation procedures
+* Incident classification and prioritization
+* Containment, eradication, and recovery
+* Crisis communications
+* Digital forensics
+* Ransomware response
+* Business continuity
+* Disaster recovery
+* Immutable and offline backups
+* Tabletop exercises
+* Post-incident reviews
+* Lessons-learned tracking
+
+Resilience extends beyond preventing attacks. It includes maintaining critical operations and recovering within acceptable business timeframes.
+
+**⌗ Vulnerability and Exposure Management ⌗**
+
+Identifies, assesses, prioritizes, and remediates weaknesses across internal systems, internet-facing assets, applications, cloud environments, and third-party services.
+
+Key capabilities include:
+
+* Vulnerability scanning
+* Asset and attack-surface discovery
+* Risk-based vulnerability prioritization
+* Penetration testing
+* Red-team and purple-team exercises
+* Configuration assessment
+* Patch management
+* Breach and attack simulation
+* Continuous control validation
+* External attack-surface management
+* Remediation verification
+
+Prioritization should consider exploitability, asset criticality, exposure, active threat activity, control effectiveness, and potential business impact—not severity scores alone.
+
+**⌗ Governance, Risk, and Compliance ⌗**
+
+Establishes organizational direction, accountability, oversight, and risk-management processes for cybersecurity.
+
+Key activities include:
+
+* Cybersecurity strategy
+* Governance structures and accountability
+* Risk assessment and treatment
+* Security policies and standards
+* Regulatory and contractual compliance
+* Control design and assurance
+* Cybersecurity metrics and reporting
+* Budget and resource prioritization
+* Security awareness and role-based training
+* Third-party risk governance
+* Exception and risk-acceptance processes
+* Board and executive reporting
+* Cyber insurance coordination
+
+Governance should align cybersecurity decisions with business objectives, legal obligations, operational dependencies, and enterprise risk appetite.
+
+**⌗ Third-Party and Software Supply-Chain Security ⌗**
+
+Manages risks introduced by suppliers, contractors, software vendors, open-source components, cloud providers, and other external dependencies.
+
+Key practices include:
+
+* Supplier security assessments
+* Contractual security requirements
+* Software bills of materials
+* Dependency and component analysis
+* Code-signing and artifact integrity
+* Vendor access controls
+* Continuous third-party monitoring
+* Concentration-risk assessment
+* Secure procurement
+* Supply-chain incident response
+* Open-source software governance
+* End-of-life and product-support monitoring
+
+Supply-chain security should cover both organizational vendors and the components, build systems, repositories, dependencies, and services used to produce software.
+
+**⌗ Operational Technology, IoT, and Cyber-Physical Security ⌗**
+
+Protects industrial control systems, operational technology, Internet of Things devices, building systems, medical devices, and other cyber-physical environments.
+
+Key practices include:
+
+* OT and IoT asset discovery
+* Network segmentation
+* Secure remote access
+* Protocol-aware monitoring
+* Safety and availability protection
+* Firmware and device integrity
+* Compensating controls for legacy systems
+* Vendor access governance
+* Secure configuration
+* Incident response adapted to operational environments
+* Physical and cybersecurity coordination
+
+Controls must account for safety, reliability, deterministic operations, long equipment lifecycles, and systems that cannot be patched or interrupted using standard IT procedures.
+
+**⌗ AI and Machine-Learning Security ⌗**
+
+Protects artificial intelligence systems and manages security risks created by organizational use of generative AI and machine-learning technologies.
+
+Key areas include:
+
+* AI asset and model inventory
+* Training-data protection
+* Prompt-injection defenses
+* Model and data access controls
+* Sensitive-data leakage prevention
+* Adversarial testing
+* Model supply-chain security
+* Output validation
+* AI-generated code review
+* Agent and tool permission controls
+* Monitoring for model misuse
+* Human oversight
+* AI incident response
+* Governance of approved and prohibited use cases
+
+AI security should address both securing AI systems and using AI safely within conventional business and security processes.
+
+**⌗ Security Architecture and Engineering ⌗**
+
+Designs and maintains security controls as an integrated part of enterprise technology architecture.
+
+Key practices include:
+
+* Zero-trust architecture
+* Defense in depth
+* Secure reference architectures
+* Threat modeling
+* Security design reviews
+* Cryptographic architecture
+* Segmentation and isolation
+* Resilience engineering
+* Secure configuration baselines
+* Architecture exception management
+* Control integration and validation
+* Technology lifecycle planning
+
+Security architecture connects individual security tools and controls into a coherent system aligned with business and operational requirements.
 
 * * *
 
-**Essentials of Cybersecurity Domains:**
-
-**Network Security:**
-*   Safeguarding computer networks against unauthorized access, misuse, and denial of service attacks.
-*   Includes tools like firewalls, intrusion detection/prevention systems, VPNs, and network access control.
-
-**System Security:**
-*   Protecting computer systems, encompassing servers, workstations, and mobile devices, from unauthorized access and theft.
-*   Encompasses measures like authentication, access control, antivirus software, and encryption.
-
-**Application Security:**
-*   Ensuring the security of software applications by addressing threats and vulnerabilities.
-*   Involves practices such as secure coding, input validation, error handling, and access control.
-
-**Security Management:**
-*   Overseeing security risks and implementing controls across an organization.
-*   Involves activities like risk assessment, security policy development, training, incident response planning, and compliance management.
-
-* * *
-
-**Exploring Cybersecurity Teams:**
-
+### Exploring Cybersecurity Teams
 **Blue Team:**
 *   The defensive force ensuring and enhancing an organization's security.
 *   Comprising security professionals dedicated to risk identification, incident response, and policy compliance.
