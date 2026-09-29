@@ -1,3 +1,9 @@
+<div id="header" align="center">
+
+<img src="https://github.com/user-attachments/assets/b01d86c0-9bea-44af-8ce7-d418cd5e817a" width="425" height="425px" />
+<img src="https://github.com/user-attachments/assets/bc024f9c-fc48-4056-ba34-7930f2b7e9b7" width="235" height="235px" />
+</div>
+
 - [MITRE ATLAS](https://atlas.mitre.org/)
 - [MITRE ATLAS Knowledge Base Agent](https://github.com/mitre-atlas/atlas-knowledge-base-agent)
 - [OWASP GenAI — LLM Top 10](https://genai.owasp.org/llm-top-10/)
@@ -9,10 +15,12 @@
 - [A2AS](https://a2as.org/) 
 - [Anthropic Red Team — Attack Navigator (2026)](https://red.anthropic.com/2026/attack-navigator/navigator) 
 ---
+- [Top Agentic AI security resources — September 2026](https://adversa.ai/blog/top-agentic-ai-security-resources-september-2026/)
 - [Applied AI For Security Engineering](https://labs.secengai.com/)
 - [LLM Security (llmsecurity.net)](https://llmsecurity.net/)
 - [Agentic Intelligence Newsletter (beehiiv)](https://agentic-intelligence.beehiiv.com/)
 - [Vinod Vasudev — Why Agentic AI Threats Could Eclipse... (Substack)](https://vinodvasudev.substack.com/p/why-agentic-ai-threats-could-eclipse?r=53xyeu)
+- [AI RED TEAMING by Virdoex_hunter](https://nebulous-gem-db8.notion.site/AI-RED-TEAMING-by-Virdoex_hunter-3e7d108d10ab80d49818eed4e636892c)
 ---
 - [NVIDIA garak](https://github.com/NVIDIA/garak)
 - [NVIDIA SkillSpector](https://github.com/nvidia/skillspector)
@@ -45,6 +53,8 @@
 - [hexstrike-ai](https://github.com/0x4m4/hexstrike-ai)
 - [AI Web Vulnerability Scanner](https://github.com/Akhyame/ai-web-vulnerability-scanner)
 - [AD AutoPWN](https://github.com/jonaslejon/ad-autopwn)
+- [NeuroSploit](https://github.com/JoasASantos/NeuroSploit)
+- [VulnClaw](https://github.com/Netw0rkNoob/VulnClaw)
 - [cybersentinel-ai](https://github.com/3sk1nt4n/cybersentinel-ai)
 - [nebula (berylliumsec)](https://github.com/berylliumsec/nebula)
 - [KavachRT](https://kavachrt.com/)
@@ -61,6 +71,7 @@
 ---
 - [MCP Market — Security Testing category](https://mcpmarket.com/categories/security-testing)
 - [FuzzingLabs — mcp-security-hub](https://github.com/FuzzingLabs/mcp-security-hub)
+- [cve-mcp-server](https://github.com/K4PXD/cve-mcp-server)
 ---
 - [ClawScan](https://clawscan.dev/)
 - [train-llm-from-scratch (FareedKhan-dev)](https://github.com/FareedKhan-dev/train-llm-from-scratch)
