@@ -34,6 +34,8 @@
 - [evilsocket — audit](https://github.com/evilsocket/audit)
 - [DontFeedTheAI](https://github.com/zeroc00I/DontFeedTheAI)
 - [BugTraceAI-CLI](https://github.com/BugTraceAI/BugTraceAI-CLI)
+- [SkillOpt](https://github.com/microsoft/SkillOpt)
+- [agent-memory](https://github.com/tigerless-labs/agent-memory)
 ---
 - [Agentic Bug Hunter](https://github.com/Awarexone/Agentic-Bug-Hunter)
 - [CyberStrike](https://github.com/CyberStrikeus/CyberStrike)
