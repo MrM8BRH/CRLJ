@@ -36,7 +36,10 @@
 - [BugTraceAI-CLI](https://github.com/BugTraceAI/BugTraceAI-CLI)
 - [SkillOpt](https://github.com/microsoft/SkillOpt)
 - [agent-memory](https://github.com/tigerless-labs/agent-memory)
+- [i-have-adhd](https://github.com/ayghri/i-have-adhd)
+- [Train your own Decision Model](https://unsloth.ai/docs/new/train-your-own-decision-model-with-unsloth)
 ---
+- [Decepticon](https://github.com/BitterSecurity/Decepticon)
 - [Agentic Bug Hunter](https://github.com/Awarexone/Agentic-Bug-Hunter)
 - [CyberStrike](https://github.com/CyberStrikeus/CyberStrike)
 - [Ares](https://github.com/dreadnode/ares)
@@ -64,6 +67,7 @@
 - [DeepAudit](https://github.com/lintsinghua/DeepAudit)
 - [Open Code Review](https://github.com/alibaba/open-code-review)
 ---
+- [Agentic Malware Analyst](https://github.com/ahmed369refaat/Malware-Analysis/tree/main/agentic-system)
 - [ossf/ai-ml-security](https://github.com/ossf/ai-ml-security)
 - [AI Red-Teaming Guide (requie)](https://github.com/requie/AI-Red-Teaming-Guide)
 - [autonomous-computer (autonomous-ai)](https://github.com/autonomous-ai/autonomous-computer)
