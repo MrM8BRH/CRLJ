@@ -14,6 +14,7 @@
 - [AIDefend](https://aidefend.net/) 
 - [A2AS](https://a2as.org/) 
 - [Anthropic Red Team — Attack Navigator (2026)](https://red.anthropic.com/2026/attack-navigator/navigator) 
+- [Orca AI Incident Archive](https://github.com/Continuum-AI-Corp/Orca-AI-Incident-Archive)
 ---
 - [Top Agentic AI security resources — September 2026](https://adversa.ai/blog/top-agentic-ai-security-resources-september-2026/)
 - [Applied AI For Security Engineering](https://labs.secengai.com/)
