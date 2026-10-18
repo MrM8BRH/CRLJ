@@ -4,6 +4,7 @@
 <img src="https://github.com/user-attachments/assets/bc024f9c-fc48-4056-ba34-7930f2b7e9b7" width="235" height="235px" />
 </div>
 
+- [Introduction to AI](https://ibrahimsobh.github.io/introduction-to-ai/)
 - [MITRE ATLAS](https://atlas.mitre.org/)
 - [MITRE ATLAS Knowledge Base Agent](https://github.com/mitre-atlas/atlas-knowledge-base-agent)
 - [OWASP GenAI — LLM Top 10](https://genai.owasp.org/llm-top-10/)
