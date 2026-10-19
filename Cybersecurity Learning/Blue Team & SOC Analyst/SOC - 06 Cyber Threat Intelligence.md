@@ -202,10 +202,10 @@ The main goal of the IOB effort is to create a standard way to represent cyber a
 4.  [Dragos Threat Groups](https://www.dragos.com/threat-groups/)
 5.  [Threat Group Cards (PDF)](https://www.dropbox.com/s/ds0ra0c8odwsv3m/Threat%20Group%20Cards.pdf)
 
-### ZoneFiles
-- [ZoneFiles Detailed Domain Lists](https://zonefiles.io/detailed-domain-lists/)
-- [ZoneFiles Compromised Domain List](https://zonefiles.io/compromised-domain-list/)
-- [ZoneFiles Compromised IP List](https://zonefiles.io/compromised-ip-list/)
+### NetAPI
+- [NetAPI Detailed Domain Lists](https://netapi.com/datasets-all-domains/)
+- [NetAPI Compromised Domain List](https://netapi.com/compromised-urls/)
+- [NetAPI Compromised IP List](https://netapi.com/compromised-ips/)
 
 ### Databases & Collections
 1.  [Adversary Monikers - EternalLiberty](https://github.com/StrangerealIntel/EternalLiberty/blob/main/EternalLiberty.csv)
