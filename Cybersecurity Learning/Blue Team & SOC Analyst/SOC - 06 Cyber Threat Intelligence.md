@@ -65,6 +65,7 @@ The main goal of the IOB effort is to create a standard way to represent cyber a
 - [BrightCloud URL/IP Lookup](https://www.brightcloud.com/tools/url-ip-lookup.php)
 - [CheckPhish](https://checkphish.ai)
 - [Email Blocklist Checker](https://grademyemail.co/email-blocklist-checker)
+- [ICHI Internet Cyber Health Index](https://ichi.global) - A free, source-transparent daily barometer of global internet cyber health, aggregating public threat feeds, vulnerability databases, and CERT advisories into a single index.
 - [IBM X-Force Exchange](https://exchange.xforce.ibmcloud.com/)
 - [IPQualityScore](https://www.ipqualityscore.com/free-ip-lookup-proxy-vpn-test)
 - [Malware Domain List](https://www.malwaredomainlist.com/mdl.php)
