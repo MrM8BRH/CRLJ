@@ -39,6 +39,7 @@
 - [agent-memory](https://github.com/tigerless-labs/agent-memory)
 - [i-have-adhd](https://github.com/ayghri/i-have-adhd)
 - [Train your own Decision Model](https://unsloth.ai/docs/new/train-your-own-decision-model-with-unsloth)
+- [obscura](https://github.com/h4ckf0r0day/obscura)
 ---
 - [Decepticon](https://github.com/BitterSecurity/Decepticon)
 - [Agentic Bug Hunter](https://github.com/Awarexone/Agentic-Bug-Hunter)
