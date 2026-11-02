@@ -67,6 +67,9 @@
 - [Lunar (TheLunarCompany)](https://github.com/TheLunarCompany/lunar)
 - [DeepAudit](https://github.com/lintsinghua/DeepAudit)
 - [Open Code Review](https://github.com/alibaba/open-code-review)
+- [0SECURITY](https://github.com/0sec-labs/0)
+- [ARTEX](https://github.com/horizonl/ARTEX)
+- [dsh-purge](https://github.com/YuJunZhiXue/dsh-purge)
 ---
 - [Agentic Malware Analyst](https://github.com/ahmed369refaat/Malware-Analysis/tree/main/agentic-system)
 - [ossf/ai-ml-security](https://github.com/ossf/ai-ml-security)
