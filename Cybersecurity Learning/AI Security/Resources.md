@@ -72,6 +72,11 @@
 - [ARTEX](https://github.com/horizonl/ARTEX)
 - [dsh-purge](https://github.com/YuJunZhiXue/dsh-purge)
 ---
+- [Live trending repositories](https://trendshift.io/)
+- [TrueForge](https://github.com/truefoundry/trueforge)
+- [LobeHub](https://github.com/lobehub/lobehub)
+- [Agent Desktop](https://github.com/vercel-labs/agent-desktop)
+---
 - [Agentic Malware Analyst](https://github.com/ahmed369refaat/Malware-Analysis/tree/main/agentic-system)
 - [ossf/ai-ml-security](https://github.com/ossf/ai-ml-security)
 - [AI Red-Teaming Guide (requie)](https://github.com/requie/AI-Red-Teaming-Guide)
